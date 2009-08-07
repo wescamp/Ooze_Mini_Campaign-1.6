@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2009-07-23 23:02+0200\n"
+"POT-Creation-Date: 2009-08-07 20:23+0200\n"
 "PO-Revision-Date: 2009-07-23 23:02+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -19,7 +19,7 @@ msgstr ""
 #: Ooze_Mini_Campaign/_main.cfg:21
 msgid ""
 "You are an ooze, and you are hungry. Devour the foolish intruders that have "
-"entered your domain! Four levels, including an RPG level. Version 1.2.5.\n"
+"entered your domain! Four levels, including an RPG level. Version 1.2.6.\n"
 "\n"
 "SpenceLack: Campaign Creator\n"
 "CIB: maintenance and MP mode\n"
@@ -1370,7 +1370,7 @@ msgstr ""
 
 #. [option]: id=Master Ooze
 #: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1196
-msgid "(Tell the truth) I'm afraid so. She tried to hire to me get rid of you."
+msgid "(Tell the truth) I'm afraid so. She tried to hire me to get rid of you."
 msgstr ""
 
 #. [message]: id=Sir Dryden
@@ -2164,7 +2164,7 @@ msgstr ""
 #: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2827
 msgid ""
 "Or perhaps you've come to challenge me, the Fort Pinewood Armwrestling "
-"champion, to a contest of strength?"
+"Champion, to a contest of strength?"
 msgstr ""
 
 #. [option]: id=Master Ooze
@@ -2915,7 +2915,7 @@ msgstr ""
 
 #. [message]: speaker=unit
 #. [message]: id=Gorl the Smasher
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2782
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2793
 #: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3928
 #: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4082
 msgid "(Grunts)"
@@ -3989,28 +3989,33 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2760
-msgid "(Grunts in pain)"
+msgid "I may die now but the Empire is eternal!"
 msgstr ""
 
 #. [message]: speaker=unit
 #: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2771
+msgid "(Grunts in pain)"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2782
 msgid ""
 "Maybe getting into the bodyguard business wasn't such a good idea after "
 "all..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2793
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2804
 msgid "No!!! Absolute power was within my...grasp...ugnh..."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2800
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2811
 msgid "Keiron's remaining men flee in disarray!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2815
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2826
 msgid ""
 "Your quest for power and security is complete! With the death of your "
 "Creator you feel great power surging through you, and your amorphous form "
@@ -4020,7 +4025,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2820
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2831
 msgid ""
 "Pinewood is abandoned by the forces of civilization, leaving you free to "
 "roam the vast wilderness in search of prey. In the new natural order you've "
@@ -4028,7 +4033,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2858
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2869
 msgid ""
 "EPILOGUE: You've defeated the Black Horde and your wicked Creator! With the "
 "death of your Creator you feel great power surging through you, and your "
@@ -4038,7 +4043,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2863
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2874
 msgid ""
 "They offer to pardon you for any and all crimes you may have committed, and "
 "even offer you honorary Pinewood citizenship! Your time amongst the Solids "
@@ -4046,52 +4051,52 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2868
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2879
 msgid "The fate of the surviving townsfolk:"
 msgstr ""
 
 #. [message]: id=Sithras
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2873
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2884
 msgid ""
 "Proposes marriage to you after the battle, saying that 'We'll get through "
 "this ooze issue together.'"
 msgstr ""
 
 #. [message]: id=Ram Aide
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2877
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2888
 msgid ""
 "Tries to get the townsfolk to buy him a new gigantic barrel of booze..."
 "unsuccessfully."
 msgstr ""
 
 #. [message]: id=High Priest Jal
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2881
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2892
 msgid ""
 "Takes charge of the town's wounded after the battle. Tries to get you to "
 "convert to the worship of Pelor."
 msgstr ""
 
 #. [message]: id=Kirielle the Realist
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2885
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2896
 msgid ""
 "The mysterious elf ranger disappears shortly after the battle and is not "
 "seen again."
 msgstr ""
 
 #. [message]: id=Bryony the Idealist
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2889
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2900
 msgid "Disappears with her companion, Kirielle."
 msgstr ""
 
 #. [message]: id=Frist
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2893
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2904
 msgid ""
 "Redoubles his efforts at training others in combat. Helps re-establish the "
 "Pinewood Militia."
 msgstr ""
 
 #. [message]: id=Livius
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2897
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2908
 msgid ""
 "Has to give up his plans to cook and sell your corpse as an exotic culinary "
 "delicacy after you become the town hero. Goes off in search of other exotic "
@@ -4099,79 +4104,79 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Jedd
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2901
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2912
 msgid ""
 "After complaining for years about government bureaucrats that never did an "
 "honest day's work, Jedd is elected Mayor."
 msgstr ""
 
 #. [message]: id=Valin
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2905
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2916
 msgid "Takes his show on the road."
 msgstr ""
 
 #. [message]: id=Captain Koltz
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2909
-msgid "Rises to the rank of Colonel on the Imperial Army."
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2920
+msgid "Rises to the rank of Colonel in the Imperial Army."
 msgstr ""
 
 #. [message]: id=Guthry
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2913
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2924
 msgid "Becomes a land speculator."
 msgstr ""
 
 #. [message]: id=Brock
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2917
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2928
 msgid ""
 "Continues to run his tavern. People from across the Empire come to challenge "
 "him to an armwrestling match; only a handful are able to best him."
 msgstr ""
 
 #. [message]: id=Dryad
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2921
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2932
 msgid ""
 "The tree-fairy returns to her tree once she is satisfied that Nature's "
 "balance has been restored."
 msgstr ""
 
 #. [message]: id=Sergeant Ryn
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2925
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2936
 msgid "Becomes the new leader of the Pinewood Militia."
 msgstr ""
 
 #. [message]: id=Haffuz the Slaver
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2929
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2940
 msgid "Gets out of the bodyguard business in search of easier money."
 msgstr ""
 
 #. [message]: id=Fontaine
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2933
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2944
 msgid ""
 "His artwork becomes famous and much sought after. He dedicates his paintings "
 "to his Muse."
 msgstr ""
 
 #. [message]: id=Sir Dryden
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2950
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2961
 msgid ""
 "Marries the love of his life, Corinna. He thanks you for helping him get the "
 "'wedding ring.'"
 msgstr ""
 
 #. [message]: id=Corinna
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2969
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2980
 msgid ""
 "Without Sir Dryden's moral guidance, Corinna overcomes the power of the Ring "
 "of Opposite Alignment and returns to studying the Dark Arts."
 msgstr ""
 
 #. [message]: id=Corinna
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2982
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2993
 msgid "Becomes even more reclusive as she delves into the Dark Arts."
 msgstr ""
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2989
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:3000
 msgid ""
 "You've won a great victory today. The future beckons you forward, and you're "
 "left to reflect on how far you've come...from a primitive creature in a dark "
