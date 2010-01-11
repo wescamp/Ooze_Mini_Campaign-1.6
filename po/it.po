@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2009-08-07 20:23+0200\n"
+"POT-Creation-Date: 2010-01-11 22:44+0100\n"
 "PO-Revision-Date: 2009-08-09 21:45+0100\n"
 "Last-Translator: \n"
 "Language-Team: none\n"
@@ -22,9 +22,9 @@ msgstr "Mini-Campagna delle Fanghiglie"
 #, fuzzy
 msgid ""
 "You are an ooze, and you are hungry. Devour the foolish intruders that have "
-"entered your domain! Four levels, including an RPG level. Version 1.2.6.\n"
+"entered your domain! Four levels, including an RPG level. Version 1.2.7.\n"
 "\n"
-"SpenceLack: Campaign Creator\n"
+"SpenceLack: Campaign Creator and maintenance\n"
 "CIB: maintenance and MP mode\n"
 "megane: spiderbaby image and recolouring the mudcrawler line\n"
 "mich: maintenance\n"
@@ -79,54 +79,54 @@ msgstr "Per la Superficie"
 #. [side]: id=Master Ooze, type=Elvish Shaman Ooze
 #. [unit]: id=Master Ooze, type=Elvish Shaman Ooze
 #: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:71
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:278
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:259
 #: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:35
-#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:33
+#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:28
 #: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:60
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:629
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:663
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:697
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:731
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:617
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:651
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:685
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:719
 msgid "Master Ooze"
 msgstr "Capo Fanghiglia"
 
 #. [side]: type=Sergeant, id=Militia Leader
 #. [event]
 #: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:119
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:280
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:261
 msgid "Militia Leader"
 msgstr "Condottiero della Milizia"
 
 #. [side]: type=Footpad, id=Thief Leader
 #. [event]
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:146
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:281
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:144
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:262
 msgid "Thief Leader"
 msgstr "Condottiero dei Ladri"
 
 #. [side]: type=Goblin Rouser, id=Goblin Chieftan
 #. [event]
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:173
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:282
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:168
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:263
 msgid "Goblin Chieftan"
 msgstr "Capitano Goblin"
 
 #. [side]: type=Blood Bat, id=Bloated Bat
 #. [event]
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:200
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:283
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:191
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:264
 msgid "Bloated Bat"
 msgstr "Pipistrello Gigante"
 
 #. [side]: type=Giant Spider, id=Spider Queen
 #. [event]
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:227
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:284
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:214
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:265
 msgid "Spider Queen"
 msgstr "Regina dei Ragni"
 
 #. [objective]: condition=win
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:252
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:233
 msgid ""
 "Your home is no longer safe. Devour the human Militia Leader to escape "
 "outside"
@@ -135,7 +135,7 @@ msgstr ""
 "scappa all'esterno"
 
 #. [objective]: condition=win
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:256
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:237
 msgid ""
 "(Optional) Killing other enemy leaders could be a rewarding experience..."
 msgstr ""
@@ -143,24 +143,24 @@ msgstr ""
 "esperienza proficua..."
 
 #. [objective]: condition=lose
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:260
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:241
 #: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:239
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2380
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2470
-#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:146
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:445
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2388
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2478
+#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:176
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:478
 msgid "Death of the Master Ooze"
 msgstr "Morte del Capo Fanghiglia"
 
 #. [event]
 #. [unit]: type=Giant Ooze 2, id=Master Ooze 2
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:279
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:426
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:260
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:407
 msgid "Master Ooze 2"
 msgstr "Capo Fanghiglia 2"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:365
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:346
 msgid ""
 "You have only vague ideas of how you came into being, or how long you've "
 "lived. All you know is that you're an ooze, and you're hungry!"
@@ -169,7 +169,7 @@ msgstr ""
 "che sai è che sei una fanghiglia, e che sei affamata!"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:369
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:350
 msgid ""
 "By engulfing enemies and digesting them, you can create smaller copies of "
 "yourself!"
@@ -177,7 +177,7 @@ msgstr ""
 "Ingerendo i nemici e digerendoli, puoi creare copie più piccole di te stesso!"
 
 #. [message]: id=Militia Leader
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:373
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:354
 msgid ""
 "I'm certain the goblins who raided our town fled into these caves. Be on "
 "your guard men!"
@@ -186,7 +186,7 @@ msgstr ""
 "queste caverne. Siate prudenti uomini!"
 
 #. [message]: id=Militia Leader
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:377
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:358
 msgid ""
 "Once an evil wizard used these caves for his unholy experiments. There's no "
 "telling what sort of monsters we could run into down here."
@@ -196,7 +196,7 @@ msgstr ""
 "quaggiù."
 
 #. [message]: id=Goblin Chieftan
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:381
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:362
 msgid ""
 "Hrrr...so...human want fight, eh? We give them fight! They all die today!"
 msgstr ""
@@ -204,7 +204,7 @@ msgstr ""
 "Moriranno tutti oggi!"
 
 #. [message]: id=Thief Leader
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:385
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:366
 msgid ""
 "Damn! These caves were supposed to be our secret hideout! SECRET, as in, "
 "something nobody knows about! But between the monsters and the goblins and "
@@ -215,7 +215,7 @@ msgstr ""
 "e i miliziani, questo posto è più affollato di Tarakin nel giorno di mercato!"
 
 #. [message]: id=Thief Leader
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:389
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:370
 msgid ""
 "Grab yer loot boys; we're fight'n our way outta this place. Anyone who gets "
 "in our way gets their head split open, aye?"
@@ -224,7 +224,7 @@ msgstr ""
 "teste degli idioti che ci bloccheranno!"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:393
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:374
 msgid ""
 "Food, food, FOOD! You've never seen so much food before! Your gelatinous "
 "form quivers with excitement as your meals approach."
@@ -233,7 +233,7 @@ msgstr ""
 "gelatinosa trema con eccitazione all'avvicinarsi del tuo pasto."
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:397
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:378
 msgid ""
 "But your prey is not harmless. You notice that many of them carry sharp "
 "sticks to poke you with, or pieces of wood to club you with. You realize "
@@ -243,7 +243,7 @@ msgstr ""
 "sottili per infilzarti, o pezzi di legno per colpirti."
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:401
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:382
 msgid ""
 "Perhaps it would be better to relocate to some place where the prey isn't so "
 "dangerous..."
@@ -252,23 +252,23 @@ msgstr ""
 "pericolosa..."
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:405
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:386
 msgid ""
 "You split yourself into smaller pieces to prepare for the coming onslaught..."
 msgstr "Ti dividi in pezzi più piccoli per prepararti all'attacco imminente..."
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:435
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:416
 msgid "What is that? One of your parts seems to have developed his own will!"
 msgstr "Cosa succede? Una delle tue parti sembra essersi sviluppata da sola!"
 
 #. [message]
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:470
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:455
 msgid "Damn these monsters! Call in the reinforcements!"
 msgstr "Dannati mostri! Chiamate i rinforzi!"
 
 #. [message]
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:498
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:483
 msgid ""
 "Stinking humans everywhere! And then those nasty slimes! Burn them, bite "
 "them, slice them!"
@@ -277,12 +277,12 @@ msgstr ""
 "mangiateli, riduceteli in pezzetti!"
 
 #. [message]
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:516
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:501
 msgid "We're getting nowhere like this! Send in the veterans!"
 msgstr "Non andremo da nessuna parte così! Mandate i veterani!"
 
 #. [message]: id=Militia Leader
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:548
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:533
 msgid ""
 "It is as I feared. The mad wizard's experiments have escaped and are running "
 "amok. We'll have to fight our way through them to reach the goblins."
@@ -291,35 +291,35 @@ msgstr ""
 "controllo. Dobbiamo farci strada tra loro per raggiungere i goblin."
 
 #. [message]: id=Militia Leader
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:566
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:555
 msgid "Get this thing OFF me!"
 msgstr "Teneteli LONTANO da me!"
 
 #. [message]: id=Militia Leader
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:577
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:566
 msgid "Ugh! At...least the...town has been...warned..."
 msgstr "Ugh! Al...meno la...città è stata...avvertita..."
 
 #. [message]: speaker=unit
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:618
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2494
-#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:256
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4216
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:608
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2502
+#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:279
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4404
 msgid "Gurgle!"
 msgstr "Gurgle!"
 
 #. [message]: id=Thief Leader
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:639
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:629
 msgid "What the hell is that thing?!"
 msgstr "Cosa diavolo è quella cosa?!"
 
 #. [message]: speaker=unit
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:657
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:647
 msgid "No! It wasn't supposed to end like this! I was supposed to die rich!"
 msgstr "No! Non pensavo sarebbe finita così! Pensavo di morire ricco!"
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:661
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:651
 msgid ""
 "You found thirty coins made of some shiny yellowish metal in a wooden chest. "
 "The Solids seem to place a high value on this substance. Maybe you will find "
@@ -330,17 +330,17 @@ msgstr ""
 "Forse potrà esserti utile dopo."
 
 #. [message]: id=Goblin Chieftan
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:693
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:683
 msgid "Minions, protect me!"
 msgstr "Schiavi, proteggetemi!"
 
 #. [message]: speaker=unit
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:711
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:701
 msgid "Argh! Lousy minions...never around when you need them..."
 msgstr "Arg! Pidocchiosi schiavi...non ci sono mai quando ti servono..."
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:715
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:705
 msgid ""
 "You found thirty coins made of some shiny yellowish metal. The Solids seem "
 "to place a high value on this substance. Maybe you will find a use for it "
@@ -351,7 +351,7 @@ msgstr ""
 "Forse potrà esserti utile dopo."
 
 #. [message]: id=Militia Leader
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:749
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:739
 msgid ""
 "Good job men! Now we just need to clear out the rest of these caverns to "
 "make our village safe!"
@@ -360,17 +360,17 @@ msgstr ""
 "il nostro villaggio sicuro!"
 
 #. [message]: id=Bloated Bat
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:771
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:761
 msgid "Kree! Kree!"
 msgstr "Kree! Kree!"
 
 #. [message]: id=Bloated Bat
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:789
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:779
 msgid "Kreeeeeeee!!!"
 msgstr "Kreeeeeeee!!!"
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:793
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:783
 msgid ""
 "You found thirty coins made of some shiny yellowish metal in a pile of bat "
 "guano. The Solids seem to place a high value on this substance. Maybe you "
@@ -381,23 +381,23 @@ msgstr ""
 "questa sostanza. Forse potrà esserti utile dopo."
 
 #. [message]: id=Spider Queen
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:830
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:820
 msgid "Hissss!"
 msgstr "Hissss!"
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:834
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:824
 msgid "This looks like it's going to be a tough fight!"
 msgstr "Sembra che sarà un duro combattimento!"
 
 #. [message]: id=Spider Queen
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:853
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:843
 msgid "Hissss! (the massive spider charges you, fangs dripping with venom)"
 msgstr ""
 "Hissss! (il grande ragno ti attacca, con i cheliceri gocciolanti veleno)"
 
 #. [message]: speaker=second_unit
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:857
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:847
 msgid ""
 "Splorch! Glargle! You glom onto the spider's mandibles and then dissolve its "
 "thorax! The creature dies in a fit of agony."
@@ -406,7 +406,7 @@ msgstr ""
 "torace! La creatura muore con una convulsione sofferente."
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:861
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:851
 msgid ""
 "You found forty coins made of some shiny yellowish metal in a cocoon. The "
 "Solids seem to place a high value on this substance. Maybe you will find a "
@@ -417,7 +417,7 @@ msgstr ""
 "sarà essere utile dopo."
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:888
+#: Ooze_Mini_Campaign/scenarios/1_Lab.cfg:878
 msgid ""
 "Oh no, you've taken too long! The humans have brought in even more "
 "reinforcements, and now you have no chance to escape!"
@@ -428,42 +428,42 @@ msgstr ""
 #. [label]
 #. [scenario]: id=2_Forest_Defender
 #: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:3
-#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:20
+#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:15
 msgid "Heart of the Forest"
 msgstr "Il Cuore della Foresta"
 
 #. [label]
-#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:24
+#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:19
 msgid "Cave Entrance"
 msgstr "Entrata della Caverna"
 
 #. [side]: type=Spearman, id=Militia Veteran
-#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:66
+#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:60
 msgid "Militia Veteran"
 msgstr "Veterano della Milizia"
 
 #. [unit]: type=Peasant, id=Militia Member
-#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:74
+#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:76
 msgid "Militia Member"
 msgstr "Membro della Milizia"
 
 #. [unit]: type=Woodsman, id=Militia Deserter
-#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:82
+#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:85
 msgid "Militia Deserter"
 msgstr "Disertore della Milizia"
 
 #. [side]: type=Elvish Sylph, id=Forest Defender
-#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:108
+#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:116
 msgid "Forest Defender"
 msgstr "Protettrice della Foresta"
 
-#. [unit]: type=Ancient Wose Pure, id=Forest Heart
-#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:126
+#. [unit]: type=Ancient Wose, id=Forest Heart
+#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:154
 msgid "Forest Heart"
 msgstr "Cuore della Foresta"
 
 #. [objective]: condition=win
-#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:142
+#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:172
 msgid ""
 "The Forest Defender draws her strength from the spirit of this forest. She "
 "has tremendous power and it will be difficult if not impossible to slay her "
@@ -474,7 +474,7 @@ msgstr ""
 "direttamente. Scopri la sua debolezza per sconfiggerla."
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:172
+#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:191
 msgid ""
 "You finally escape from the cavern you had always called home to the place "
 "you know only as 'Outside'."
@@ -483,11 +483,12 @@ msgstr ""
 "che conosci come 'Esterno'."
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:176
+#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:195
+#, fuzzy
 msgid ""
 "Argh! It's so bright out here! The source of the light seems to be a giant "
 "ball of fire suspended high in the air. There seems to be no ceiling to this "
-"cavern, and all around you there is bizarre  vegetation that looks nothing "
+"cavern, and all around you there is bizarre vegetation that looks nothing "
 "like the mushrooms and molds you were accustomed to. Some dim part of your "
 "memory tells you that you are in what is called a 'forest'."
 msgstr ""
@@ -498,7 +499,7 @@ msgstr ""
 "tua memoria ti dice che sei in quella che si dice una 'foresta'."
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:180
+#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:199
 msgid ""
 "Perhaps it was a mistake to leave your nice, dark, damp home for this "
 "'forest'..."
@@ -507,7 +508,7 @@ msgstr ""
 "'foresta'..."
 
 #. [message]: id=Militia Member
-#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:184
+#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:203
 msgid ""
 "Those damn monsters killed Sergeant Simms! We need to regroup back at the "
 "town!"
@@ -516,7 +517,7 @@ msgstr ""
 "riorganizzarci in città!"
 
 #. [message]: id=Militia Veteran
-#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:188
+#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:207
 msgid ""
 "Don't even think about it mister! We must stand our ground and defeat these "
 "beasts now, before they can multiply any more!"
@@ -525,7 +526,7 @@ msgstr ""
 "bestie ora, prima che si moltiplichino ancora!"
 
 #. [message]: id=Militia Deserter
-#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:192
+#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:211
 msgid ""
 "Are you kidding?! Those creatures just ate their way through half our "
 "militia! We need to go get help from the Imperial Army."
@@ -534,7 +535,7 @@ msgstr ""
 "Dobbiamo chiedere aiuto all'Esercito Imperiale."
 
 #. [message]: id=Militia Veteran
-#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:196
+#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:215
 msgid ""
 "There's no time! Here come the monsters! They're flooding out of the cave "
 "entrance!"
@@ -542,23 +543,23 @@ msgstr ""
 "Non c'è tempo! Ecco che arrivano i mostri! Stanno uscento dalla caverna!"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:200
+#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:219
 msgid "Gurgle! (Food!)"
 msgstr "Gurgle!(Cibo!)"
 
 #. [message]: id=Militia Deserter
-#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:204
+#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:223
 msgid "Eeek! Run away!"
 msgstr "Eeek! Scappiamo!"
 
 #. [message]: id=Militia Veteran
-#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:208
+#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:227
 msgid "Cowards! I'll have you all court-martialled when this is over!"
 msgstr ""
 "Codardi! Vi porterò tutti davanti alla corte marziale quando sarà finita!"
 
 #. [message]: id=Forest Defender
-#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:218
+#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:241
 msgid ""
 "Those foolish humans! First they dare to trespass in my woods, and now "
 "they've stirred up the monsters in the Dark Cavern!"
@@ -567,7 +568,7 @@ msgstr ""
 "hanno risvegliato i mostri della Caverna Scura!"
 
 #. [message]: id=Forest Defender
-#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:222
+#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:245
 msgid ""
 "Nature's balance must be respected. By the power of my faith, I, Aurelia, "
 "Defender of Shinseki Forest, will cleanse this land of all defilers!"
@@ -577,7 +578,7 @@ msgstr ""
 "tutti i profanatori!"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:233
+#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:256
 msgid ""
 "Somehow the giant ball of fire in the sky has changed position and now its "
 "terrible brightness is not nearly so bad. You wonder what other surprises "
@@ -588,7 +589,7 @@ msgstr ""
 "altre sorprese ti attendono in questa strana terra..."
 
 #. [message]: id=Forest Defender
-#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:241
+#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:264
 msgid ""
 "Rally to me, creatures of the forest! We shall purge this monstrous taint "
 "from our home!"
@@ -597,12 +598,12 @@ msgstr ""
 "contaminazione dalla nostra casa!"
 
 #. [message]: speaker=Forest Defender
-#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:260
+#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:283
 msgid "At last, the monstrous taint has been purged..."
 msgstr "Infine l'infezione mostruosa è stata ripulita..."
 
 #. [message]: id=Forest Defender
-#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:277
+#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:300
 msgid ""
 "I have joined my soul with the heart of the forest! As long as this forest "
 "exists, so shall I!"
@@ -611,18 +612,18 @@ msgstr ""
 "esiste, esisterò anch'io!"
 
 #. [message]: speaker=unit
-#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:291
+#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:314
 msgid ""
 "You've glommed on to the sylph and begun eating her. She tastes delicious!"
 msgstr "Hai inghiottito la ninfa e comincia a mangiarla. È deliziosa!"
 
 #. [message]: id=Forest Defender
-#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:306
+#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:329
 msgid "Goddess, protect your Chosen One!"
 msgstr "Dea, proteggi la tua Prescelta!"
 
 #. [message]: speaker=unit
-#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:336
+#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:359
 msgid ""
 "What's this?! The slyph regenerates faster than you can dissolve her! You "
 "realize it is pointless to keep attacking her. Instead you must find the "
@@ -633,12 +634,12 @@ msgstr ""
 "trovare la fonte del suo potere."
 
 #. [message]: id=Forest Defender
-#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:348
+#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:371
 msgid "Taste Nature's fury!"
 msgstr "Assaggia la furia della Natura!"
 
 #. [message]: id=Forest Defender
-#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:362
+#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:385
 msgid ""
 "NO! Foul creature, you have no idea what you're trifling with! The Heart of "
 "Shinseki Forest must remain pure!"
@@ -647,7 +648,7 @@ msgstr ""
 "della Foresta Shinseki deve rimanere puro!"
 
 #. [message]: id=Forest Defender
-#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:371
+#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:394
 msgid ""
 "Foul human! See what you have done! This monster will devour us all! We need "
 "to stop fighting each other, at least until this creature is destroyed!"
@@ -657,12 +658,12 @@ msgstr ""
 "non sia distrutta!"
 
 #. [message]
-#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:374
+#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:398
 msgid "Yes, I agree. So let's do what has to be done!"
 msgstr "Sì, concordo. Faremo ciò che deve essere fatto!"
 
 #. [message]: speaker=unit
-#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:394
+#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:418
 msgid ""
 "You start to dissolve the giant tree, turning it into more ooze. As you do "
 "this you experience a strange sensation. It is almost as if your "
@@ -673,17 +674,17 @@ msgstr ""
 "stia entrando nella mente di un altro."
 
 #. [message]: id=Forest Defender
-#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:398
+#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:422
 msgid "Ugh! Get out of my head, monster! This forest belongs to me!"
 msgstr "Ugh! Esci dalla mia mente, mostro! Questa foresta appartiene a me!"
 
 #. [message]: id=Forest Defender
-#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:409
+#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:437
 msgid "NOOOOOOO!!!!!!!"
 msgstr "NOOOOOOO!!!!!!!"
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:413
+#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:441
 msgid ""
 "The sylph has collapsed in a senseless heap. She had bound her spirit into "
 "the Forest Heart, but when you consumed it, you consumed her spirit as well."
@@ -693,7 +694,7 @@ msgstr ""
 "il suo spirito."
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:422
+#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:450
 msgid ""
 "Emotions, sensations, and memories that are completely alien to you flood "
 "through your consciousness. You realize that they belong to the sylph. It is "
@@ -704,7 +705,7 @@ msgstr ""
 "mondo nuovo si fosse aperto davanti a te; il mondo dei Solidi."
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:426
+#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:454
 msgid ""
 "With her power source gone the sylph is helpless before you. Her forest "
 "allies, lacking leadership, mill about in disarray. Your instincts tell you "
@@ -717,7 +718,7 @@ msgstr ""
 "capisci che sarebbe un errore."
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:430
+#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:458
 msgid ""
 "The days when you acted on instinct alone, heedlessly devouring anything "
 "that came across your path, are over. Looking into your newfound memories "
@@ -730,7 +731,7 @@ msgstr ""
 "di darti la caccia. Per i Solidi non sei altro che una minaccia amorfa."
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:434
+#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:462
 msgid ""
 "You realize that the only way to save yourself from the wrath of the "
 "powerful Solids is to become one yourself! You slither over to the "
@@ -743,7 +744,7 @@ msgstr ""
 "bocca..."
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:449
+#: Ooze_Mini_Campaign/scenarios/2_Forest_Defender.cfg:478
 msgid ""
 "Oh no, you've taken too long! The Forest Defender has been able to turn the "
 "entire forest against you! The trees uproot and attack you! Torrential rains "
@@ -777,147 +778,147 @@ msgstr "Sindaco Wyatt"
 
 #. [unit]: type=Spearman, id=Stern Guard
 #: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:46
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:86
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:93
 msgid "Stern Guard"
 msgstr "Guardia Severa"
 
 #. [unit]: type=Bowman, id=Bored Guard
 #: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:58
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:98
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:105
 msgid "Bored Guard"
 msgstr "Guardia Annoiata"
 
 #. [unit]: type=Heavy Infantryman, id=Big Bodyguard
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:110
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:117
 msgid "Big Bodyguard"
 msgstr "Guardia del Corpo Imponente"
 
 #. [unit]: type=Heavy Infantryman, id=Mean Bodyguard
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:122
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:129
 msgid "Mean Bodyguard"
 msgstr "Guardia del Corpo Sgarbata"
 
 #. [unit]: type=Heavy Infantryman, id=Ugly Bodyguard
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:134
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:141
 msgid "Ugly Bodyguard"
 msgstr "Guarda del Corpo Brutta"
 
 #. [unit]: type=Heavy Infantryman, id=Lazy Bodyguard
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:146
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:154
 msgid "Lazy Bodyguard"
 msgstr "Guarda del Corpo Pigra"
 
 #. [unit]: type=Dwarvish Thunderer, id=Ram Aide
 #: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:70
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:159
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:168
 msgid "Ram Aide"
 msgstr "Ram Aide"
 
 #. [unit]: type=Rogue, id=Shady Character
 #: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:845
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:171
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:180
 msgid "Shady Character"
 msgstr "Personaggio Losco"
 
 #. [unit]: type=Fencer, id=Fontaine
 #: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:531
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:179
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:189
 msgid "Fontaine"
 msgstr "Fontaine"
 
 #. [unit]: type=White Mage, id=High Priest Jal
 #: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:82
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:191
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:202
 msgid "High Priest Jal"
 msgstr "Sommo Sacerdote Jal"
 
 #. [unit]: type=Peasant, id=Jedd
 #: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:94
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:203
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:214
 msgid "Jedd"
 msgstr "Jedd"
 
 #. [unit]: type=Woodsman, id=Guthry
 #: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:648
 #: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:688
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:215
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:226
 msgid "Guthry"
 msgstr "Guthry"
 
 #. [unit]: type=Footpad, id=Haffuz the Slaver
 #: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:736
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:227
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:238
 msgid "Haffuz the Slaver"
 msgstr "Haffuz lo Schiavista"
 
 #. [unit]: type=Thug, id=Gorl the Smasher
 #: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:748
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:239
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:250
 msgid "Gorl the Smasher"
 msgstr "Gorl lo Spaccapietre"
 
 #. [unit]: type=Dark Sorceress, id=Corinna
 #: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:106
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:251
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:262
 msgid "Corinna"
 msgstr "Corinna"
 
 #. [unit]: type=Paladin, id=Sir Dryden
 #: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:497
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:264
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:275
 msgid "Sir Dryden"
 msgstr "Sir Dryden"
 
 #. [unit]: type=Sergeant, id=Sergeant Ryn
 #: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:119
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:276
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:288
 msgid "Sergeant Ryn"
 msgstr "Sergente Ryn"
 
 #. [unit]: type=Mage, id=Livius
 #: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:622
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:288
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:300
 msgid "Livius"
 msgstr "Livius"
 
 #. [unit]: type=Elvish Hero, id=Sithras
 #: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:597
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:300
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:313
 msgid "Sithras"
 msgstr "Sithras"
 
 #. [unit]: type=Dwarvish Fighter, id=Frist
 #: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:131
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:312
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:325
 msgid "Frist"
 msgstr "Frist"
 
 #. [unit]: type=Longbowman, id=Valin
 #: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:143
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:324
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:337
 msgid "Valin"
 msgstr "Valin"
 
 #. [unit]: type=Dwarvish Guardsman, id=Brock
 #: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:155
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:336
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:350
 msgid "Brock"
 msgstr "Brock"
 
 #. [unit]: type=Elvish Ranger, id=Kirielle the Realist
 #: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:167
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:348
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:363
 msgid "Kirielle the Realist"
 msgstr "Kirielle la Realista"
 
 #. [unit]: type=Elvish Marksman, id=Bryony the Idealist
 #: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:180
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:361
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:377
 msgid "Bryony the Idealist"
 msgstr "Bryony l'Idealista"
 
 #. [objective]: condition=win
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:441
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:474
 msgid ""
 "Infiltrate Fort Pinewood in your new 'Solid' form. Cultivate allies and try "
 "to earn gold. Earn experience at the Training Hall."
@@ -926,7 +927,7 @@ msgstr ""
 "e cerca di guadagnare oro. Guadagna esperienza nella Zona Addestramento."
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:530
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:518
 msgid ""
 "The past few days you have gathered up all the slimy blobs of yourself and "
 "tightly compacted them into one small ooze, which now resides in the innards "
@@ -941,7 +942,7 @@ msgstr ""
 "con la distruzione del Cuore della Foresta."
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:534
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:522
 msgid ""
 "It has taken you some time to get used to your new solid form. Your senses "
 "of taste, touch, hearing and sight are completely different. The elf's "
@@ -952,7 +953,7 @@ msgstr ""
 "dell'elfo ti hanno dato una nuova visione del mondo."
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:538
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:526
 msgid ""
 "Being a Solid does have drawbacks though. You are more vulnerable to damage, "
 "and you're not able to squeeze yourself through small cracks or crevices. "
@@ -963,7 +964,7 @@ msgstr ""
 "facilmente, e non puoi dissolvere il cibo semplicemente in pochi istanti. "
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:542
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:530
 msgid ""
 "You need to determine where you should focus your new talents. Should you "
 "focus on developing your physical strength or work on building up your "
@@ -973,21 +974,21 @@ msgstr ""
 "focalizzarti sulla tua forza fisica o lavorare sulla tua resistenza?"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:544
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:532
 msgid ""
 "I will focus on strength. I want to be able to overpower the opposition."
 msgstr ""
 "Mi concentrerò sulla forza. Voglio essere capace di sopraffare l'avversario."
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:553
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:541
 msgid "I will focus on endurance. I want to be able to outlast my opponents."
 msgstr ""
 "Mi concentrerò sulla resistenza. Voglio essere capace di sopravvivere ai "
 "miei avversari."
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:564
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:552
 msgid ""
 "Elves are well known for their natural grace of movement. Should you focus "
 "on manual dexterity or fleetness of foot?"
@@ -996,7 +997,7 @@ msgstr ""
 "concentrarti sulla destrezza manuale o sulla agilità nella corsa?"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:566
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:554
 msgid ""
 "I will focus on manual dexterity. It will help bolster my ranged attacks."
 msgstr ""
@@ -1004,7 +1005,7 @@ msgstr ""
 "attacchi a distanza."
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:575
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:563
 msgid ""
 "I will focus on fleetness of foot. I want to be able to outrun my enemies."
 msgstr ""
@@ -1012,7 +1013,7 @@ msgstr ""
 "miei nemici."
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:586
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:574
 msgid ""
 "You've arrived at the gates of Fort Pinewood, the main Solid settlement in "
 "the region. You're going to have to decide whether to assimilate peacefully "
@@ -1023,12 +1024,12 @@ msgstr ""
 "civiltà dei Solidi, o se cercare di distruggerla dall'interno..."
 
 #. [message]: speaker=Stern Guard
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:751
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:739
 msgid "Halt! Who the hell are you?"
 msgstr "Alt! Chi diavolo sei?"
 
 #. [message]: speaker=Bored Guard
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:755
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:743
 msgid ""
 "Aw come on Carmen! Do ya have ta give everyone who passes through here a "
 "hard time? Let the elf lady pass! We're only standin' guard ta keep out th' "
@@ -1038,7 +1039,7 @@ msgstr ""
 "passare l'elfa! Stiamo qui solo per tenere fuori le fanghiglie!"
 
 #. [message]: speaker=Stern Guard
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:759
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:747
 msgid ""
 "Like hell we are! The Mayor says the Fort is under complete lockdown until "
 "the ooze crisis is resolved. Besides, we don't need her kind of riff-raff in "
@@ -1050,12 +1051,12 @@ msgstr ""
 "scatole, piccola ragazzetta elfa, non c'è niente per te qui!"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:763
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:751
 msgid "(How should you get past the gate guards?)"
 msgstr "(Come vorresti passare le guardie del cancello?)"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:765
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:753
 msgid ""
 "(Beg) Please, please, please let me in! You can't leave me out here! The "
 "oozes will eat me!"
@@ -1064,12 +1065,12 @@ msgstr ""
 "lasciarmi qua fuori! Le fanghiglie mi mangeranno!"
 
 #. [message]: id=Stern Guard
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:769
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:757
 msgid "Hmph! Pathetic!"
 msgstr "Hmph! Patetico!"
 
 #. [message]: id=Bored Guard
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:773
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:761
 msgid ""
 "Aww, Carmen, do ya have to be so heartless? (He pats you on the shoulder as "
 "he ushers you through the gate) There, there, little lady, you'll be safe in "
@@ -1081,12 +1082,12 @@ msgstr ""
 "nella taverna."
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:777
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:765
 msgid "You gained five gold pieces!"
 msgstr "Hai guadagnato cinque pezzi d'oro!"
 
 #. [message]: id=Stern Guard
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:789
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:777
 msgid ""
 "What the hell?! All it takes is some teary-eyed little wench and you get all "
 "sentimental! You're a pathetic excuse for a guard! And as for you, elf "
@@ -1102,13 +1103,13 @@ msgstr ""
 
 #. [option]: id=Master Ooze
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:794
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:848
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:782
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:836
 msgid "(Bribe) I'll pay you thirty pieces of gold if you let me in!"
 msgstr "(Corrompi) Pagherò trenta pezzi d'oro se mi lasciate entrare!"
 
 #. [message]: id=Stern Guard
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:798
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:786
 msgid ""
 "That works for me! Have a nice day, ma'am! And welcome to Fort Pinewood!"
 msgstr ""
@@ -1116,13 +1117,13 @@ msgstr ""
 "Forte Pinewood!"
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:802
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:856
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:790
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:844
 msgid "You lost thirty gold pieces!"
 msgstr "Hai perso trenta pezzi d'oro!"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:815
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:803
 msgid ""
 "(Offer to help) The oozes threaten everyone. I'm a healer and I came to "
 "offer my services in these dark times."
@@ -1131,13 +1132,13 @@ msgstr ""
 "per offrire i miei servizi in questi tempi oscuri."
 
 #. [message]: id=Stern Guard
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:819
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:807
 msgid "Hmmm...I suppose we need all the help we can get..."
 msgstr ""
 "Hmmm...Suppongo che abbiamo bisogno di tutto l'aiuto che possiamo ottenere..."
 
 #. [message]: id=Bored Guard
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:823
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:811
 msgid ""
 "Head to th' Mayor's manor just up the street. He's lookin' ta hire healers "
 "like yourself."
@@ -1146,12 +1147,12 @@ msgstr ""
 "guaritori come te."
 
 #. [message]: id=Stern Guard
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:827
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:815
 msgid "Welcome to Fort Pinewood."
 msgstr "Benvenuta a Fort Pinewood."
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:832
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:820
 msgid ""
 "(Seduce) Surely strong, handsome men like yourselves could do a woman like "
 "me a little favor? I could make it worth your while!"
@@ -1160,12 +1161,12 @@ msgstr ""
 "donna come me un piccolo favore? Posso ripagarvi quando volete!"
 
 #. [message]: id=Bored Guard
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:836
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:824
 msgid "(Gulp!) Well I guess we could--"
 msgstr "(Gulp!) Credo che dovremmo--"
 
 #. [message]: id=Stern Guard
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:840
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:828
 msgid ""
 "Could what? You're not actually considering letting that inhuman freak have "
 "her way with you, are you? Elves are just one step above monsters! If the "
@@ -1180,14 +1181,14 @@ msgstr ""
 "torno signorinella! Non c'è niente per te in Forte Pinewood!"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:844
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:832
 msgid ""
 "(He's really angry; it looks like bribery is the only option you have left)"
 msgstr ""
 "(È veramente arrabiato; sembra che corromperlo sia la sola opzione rimasta)"
 
 #. [message]: id=Stern Guard
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:852
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:840
 msgid ""
 "You've finally got my attention, lass! I'll take those coins and...Welcome "
 "to Fort Pinewood! May the rest of your day be as nice, ha ha!"
@@ -1197,17 +1198,17 @@ msgstr ""
 "felici, ha ha!"
 
 #. [message]: id=Bored Guard
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:868
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:856
 msgid "Yer really evil, ya know that?"
 msgstr "Sei veramente malvagio, lo sai?"
 
 #. [message]: id=Stern Guard
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:872
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:860
 msgid "(Shrugs) I try."
 msgstr "(Fa spallucce) Faccio quello che posso."
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:883
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:871
 msgid ""
 "Whenever you see an icon that looks like this, you should move the Master "
 "Ooze onto the hex that contains it to trigger an event."
@@ -1216,7 +1217,7 @@ msgstr ""
 "sull'esagono che la contiene sbloccare un evento."
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:899
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:887
 msgid ""
 "Welcome to Fort Pinewood. North to Tarakin City. South to Shinseki Forest."
 msgstr ""
@@ -1224,7 +1225,7 @@ msgstr ""
 "Foresta Shinseki"
 
 #. [message]: id=Mayor Wyatt
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:917
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:905
 msgid ""
 "(The Mayor appears to be a balding middle-aged man with an exuberant "
 "temperament. Based on his clothes and bearing, you guess that he must have "
@@ -1235,7 +1236,7 @@ msgstr ""
 "essere stato un contadino prima di essere un politico)"
 
 #. [message]: id=Mayor Wyatt
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:921
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:909
 msgid ""
 "Greetings citizen! Have you come to aid our fair town in our hour of need?"
 msgstr ""
@@ -1243,12 +1244,12 @@ msgstr ""
 "nell'ora del bisogno?"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:925
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:913
 msgid "(How should you respond?)"
 msgstr "(Come dovresti rispondere?)"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:927
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:915
 msgid ""
 "(Offer to help fight Evil) Yes, my name is Aurelia. I'm an elvish shaman and "
 "I'm here to help!"
@@ -1257,7 +1258,7 @@ msgstr ""
 "sciamana elfica e sono qui per aiutare!"
 
 #. [message]: id=Mayor Wyatt
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:931
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:919
 msgid ""
 "(He rubs his hands together with glee) Wonderful! Splendid! Let me explain "
 "the situation..."
@@ -1266,7 +1267,7 @@ msgstr ""
 "situazione..."
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:936
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:924
 msgid ""
 "(Offer to help for a reward) I'm a mercenary. I can help, but my services "
 "will cost you."
@@ -1275,7 +1276,7 @@ msgstr ""
 "aiutare, ma i miei servizi ti costeranno."
 
 #. [message]: id=Mayor Wyatt
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:940
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:928
 msgid ""
 "Of course, of course! There's considerable risk involved in what I'm asking. "
 "I wouldn't dream of putting you in harm's way without providing proper..."
@@ -1285,14 +1286,14 @@ msgstr ""
 "Non mi sognerei di farti ferire senza darti una appropriata...ricompensa."
 
 #. [message]: id=Mayor Wyatt
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:944
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:932
 msgid "Let me give you a quick briefing about what's been going on..."
 msgstr "Lascia che di istruisca brevemente su quello che stiamo per fare..."
 
 #. [option]: id=Master Ooze
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:949
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:971
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:937
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:959
 msgid ""
 "(Decline to help) I'm just a simple traveler looking for a place to spend "
 "the night."
@@ -1301,8 +1302,8 @@ msgstr ""
 "posto per trascorrere la notte."
 
 #. [message]: id=Mayor Wyatt
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:953
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:975
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:941
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:963
 msgid ""
 "In that case madam, I highly recommend Brock's Tavern, which is located near "
 "the South Gate. The food is delicious, the rooms are cozy, and the prices "
@@ -1314,8 +1315,8 @@ msgstr ""
 "Pinewood!"
 
 #. [message]: id=Mayor Wyatt
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:957
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:979
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:945
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:967
 msgid ""
 "(He suddenly looks dejected) Or...at least, enjoy your stay as much as "
 "possible under the circumstances. (Sigh) Our town has had its share of "
@@ -1327,14 +1328,14 @@ msgstr ""
 "sta succedendo..."
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:963
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:951
 msgid "(Provoke) I'm no hero! I'm the Master Ooze, come to devour you all!"
 msgstr ""
 "(Provoca) Non sono un eroe! Sono il Capo Fanghiglia, venuto a divorarvi "
 "tutti!"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:967
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:955
 msgid ""
 "(On second thought, as you look at the Mayor's four well-armored bodyguards, "
 "you decide that it might not be in your best interest to provoke a fight "
@@ -1347,7 +1348,7 @@ msgstr ""
 "gli umani...)"
 
 #. [message]: id=Mayor Wyatt
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:987
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:975
 msgid ""
 "It all started when our militia leader led a punitive strike against the "
 "local goblin tribe. The strike force encountered an incredibly evil, "
@@ -1358,7 +1359,7 @@ msgstr ""
 "mostro incredibilmente malvagio e potente che divorò tutto sul suo cammino!"
 
 #. [message]: id=Mayor Wyatt
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:991
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:979
 msgid ""
 "The Pinewood Militia suffered a crushing defeat, and our militia leader was "
 "killed. I've had all the outlying farmsteads evacuated as we no longer have "
@@ -1371,7 +1372,7 @@ msgstr ""
 "in aiuto, ma ci vorranno settimane prima che arrivino in forza."
 
 #. [message]: id=Mayor Wyatt
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:995
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:983
 msgid ""
 "In the meantime I've been trying to recruit heroes and mercenaries to "
 "bolster the fort's defenses. I'm not just worried about the oozes; there's "
@@ -1386,7 +1387,7 @@ msgstr ""
 "diffonde avremmo di preoccuparci di più di solamente stupide fanghiglie!"
 
 #. [message]: id=Mayor Wyatt
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:999
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:987
 msgid ""
 "If you're interested in helping with the town's defense, go speak with Frist "
 "at the Training Hall. You may also want to speak with some of the other "
@@ -1398,38 +1399,38 @@ msgstr ""
 "Possono, come minimo, essere capaci a fornirti informazioni importanti."
 
 #. [message]: id=Sir Dryden
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1017
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1130
 msgid "Oh, would that I might never see another day such as today, alas, alas!"
 msgstr ""
 "Oh, come vorrei non vedere mai un altro giorno come questo, ahimè, ahimè!"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1021
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1120
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1194
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1261
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1387
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1525
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1742
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2107
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2539
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2591
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2833
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3536
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3700
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3830
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3940
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4063
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1134
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1233
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1296
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1381
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1495
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1625
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1842
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2207
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2639
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2691
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2933
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3717
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3881
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4016
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4127
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4250
 msgid "(What to say?)"
 msgstr "(Cosa dici?)"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1023
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1136
 msgid "(Offer to help) Hello sir. Is something wrong?"
 msgstr "(Offri aiuto) Salve. C'è qualcosa che non va?"
 
 #. [message]: id=Sir Dryden
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1027
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1143
 msgid ""
 "Oh fair damsel, I don't want to burden you with my problems. (He suddenly "
 "reconsiders) On the other hand, perhaps you're just what I need..."
@@ -1439,7 +1440,7 @@ msgstr ""
 "avrei bisogno..."
 
 #. [message]: id=Sir Dryden
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1031
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1147
 msgid ""
 "I'll tell you my tale of woe, and then you can decide whether to help me or "
 "not. "
@@ -1448,7 +1449,7 @@ msgstr ""
 "meno."
 
 #. [message]: id=Sir Dryden
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1035
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1151
 msgid ""
 "Last year I was traveling with a trade caravan in the icy steppes of Vedra "
 "when we were ambushed by orcs. Except for myself, there was only one other "
@@ -1460,7 +1461,7 @@ msgstr ""
 "Corinna."
 
 #. [message]: id=Sir Dryden
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1039
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1155
 msgid ""
 "What can I say about Corinna? Her eyes are exquisite emeralds, her face is "
 "that of an angel, she is a goddess made flesh! With Corinna's magic and my "
@@ -1477,7 +1478,7 @@ msgstr ""
 "E infine, dopo mesi che viaggiavamo insieme, noi due tornammo alla civiltà."
 
 #. [message]: id=Sir Dryden
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1043
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1159
 msgid ""
 "We're the perfect team! The gods intended for us to be together, I'm sure of "
 "it!"
@@ -1486,27 +1487,27 @@ msgstr ""
 "ne sono sicuro!"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1047
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1163
 msgid "You do sound like a good match. So what's the problem?"
 msgstr "Sembrate una bella coppia. Quindi qual'è il problema?"
 
 #. [message]: id=Sir Dryden
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1051
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1167
 msgid "Corinna is evil and she hates me."
 msgstr "Corinna è malvagia e mi odia."
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1055
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1171
 msgid "Ouch."
 msgstr "Ahia."
 
 #. [message]: id=Sir Dryden
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1059
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1175
 msgid "Tell me about it."
 msgstr "Dillo a me."
 
 #. [message]: id=Sir Dryden
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1063
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1179
 msgid ""
 "Once we got back to Fort Pinewood she wanted nothing to do with me! She said "
 "she only stayed with me to survive, that she never loved me! I feel like "
@@ -1518,7 +1519,7 @@ msgstr ""
 "poltiglia!"
 
 #. [message]: id=Sir Dryden
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1067
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1183
 msgid ""
 "Now she broods in her manor, studying dark tomes of forbidden magic. The "
 "last time I tried to visit her she attacked me, and placed what she called "
@@ -1532,7 +1533,7 @@ msgstr ""
 "il cancello principale del suo maniero ora!"
 
 #. [message]: id=Sir Dryden
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1071
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1187
 msgid ""
 "The tenets of my paladin Order clearly state that I must slay Evil wherever "
 "I find it, but how can I raise my sword against the woman I love? (Sigh) If "
@@ -1546,7 +1547,7 @@ msgstr ""
 "dentro?"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1075
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1191
 msgid ""
 "I guess appearances can be deceiving sometimes... (You wonder what Dryden "
 "would think of you if he saw your true form...)"
@@ -1555,7 +1556,7 @@ msgstr ""
 "Dryden penserebbe di te se ti vedesse nella tua vera forma...)"
 
 #. [message]: id=Sir Dryden
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1079
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1195
 msgid ""
 "If you're willing to help, please take this love letter I wrote to Corinna "
 "at her estate. It's just west of the bridge."
@@ -1564,12 +1565,12 @@ msgstr ""
 "scritto alla sua propietà. È giusto a ovest di questo ponte."
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1089
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1205
 msgid "(Leave him alone) Sorry to bother you..."
 msgstr "(Lascialo da solo) Spiacente di averti infastidito..."
 
 #. [message]: id=Sir Dryden
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1093
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1209
 msgid ""
 "(The man is so self-absorbed in his sorrow that he doesn't even notice your "
 "arrival or departure.)"
@@ -1578,12 +1579,12 @@ msgstr ""
 "arrivo e la tua partenza.)"
 
 #. [message]: id=Corinna
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1112
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1225
 msgid "(This pretty young woman scowls at you as you approach.)"
 msgstr "(Questa bella e giovane donna si acciglia come ti avvicini.)"
 
 #. [message]: id=Corinna
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1116
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1229
 msgid ""
 "Let me guess. That tin-headed oaf of a paladin is still pining for me "
 "outside the gates of my estate, and he sent you to do his dirty work."
@@ -1593,18 +1594,18 @@ msgstr ""
 "fare il lavoro sporco."
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1122
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1235
 msgid "(Be indifferent) That's right. I've got a letter for you."
 msgstr "(Sii indifferente) Esatto. ho una lettera per te."
 
 #. [message]: id=Corinna
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1126
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1135
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1239
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1248
 msgid "Not another one!"
 msgstr "Non un'altra!"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1131
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1244
 msgid ""
 "(Try to change her mind) But he loves you! He wrote you this love letter!"
 msgstr ""
@@ -1612,7 +1613,7 @@ msgstr ""
 "d'amore! "
 
 #. [message]: id=Corinna
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1142
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1255
 msgid ""
 "Look, I'll pay you 75 pieces of gold if you can get rid of Sir Dryden for "
 "me. Kill him, trick him, marry him, whatever, just make him go away!"
@@ -1621,46 +1622,46 @@ msgstr ""
 "Uccidilo, ingannalo, sposalo, qualsiasi cosa, basta che lo tieni lontano!"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1146
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1259
 msgid "(How to respond to her offer?)"
 msgstr "(Come rispondi alla sua offerta?)"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1148
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1261
 msgid "(Accept the offer) All right, I'll get rid of Sir Dryden for you."
 msgstr "(Accetta l'offerta) Molto bene, terrò lontano Sir Dryden da te."
 
 #. [message]: id=Corinna
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1152
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1265
 msgid "Thanks. Come back here when the job is done for your reward."
 msgstr ""
 "Grazie. Ritorna quando il lavoro starà stato fatto e avrai la tua ricompensa."
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1157
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1270
 msgid "(Reject the offer) No! Sir Dryden was right about you, you're evil!"
 msgstr ""
 "(Rifiuta l'offerta) No! Sir Dryden aveva ragione su di te, sei malvagia!"
 
 #. [message]: id=Corinna
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1161
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1274
 msgid " (Menacingly) You've worn out your welcome here. Leave. Now."
 msgstr "(Minacciosamente) Non sei più la benvenuta qui. Vattene. Ora."
 
 #. [message]: id=Sir Dryden
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1190
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1292
 msgid "(Eagerly) Were you able to get my letter to Corinna?"
 msgstr "(Emozionatamente) Sei riuscita a dare la mia lettera a Corinna?"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1196
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1298
 #, fuzzy
 msgid "(Tell the truth) I'm afraid so. She tried to hire me to get rid of you."
 msgstr ""
 "(Di la verità) Ho paura di sì. Ha tentato di assoldarmi per tenerti lontano."
 
 #. [message]: id=Sir Dryden
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1200
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1302
 msgid ""
 "(Grimly) Then things are even worse than I feared. It is only a matter of "
 "time before Corinna's experiments in black magic come to the attention of "
@@ -1676,14 +1677,14 @@ msgstr ""
 "aiutarmi."
 
 #. [message]: id=Sir Dryden
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1204
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1306
+#, fuzzy
 msgid ""
 "There is a cursed artifact known as a 'Ring of Opposite Alignment.' "
 "Supposedly it has the power to change the most pure-hearted hero to evil, or "
 "the most wicked villain to good. If we could acquire that ring and trick "
 "Corinna into wearing it perhaps she would develop a more...amenable "
-"personality. Unfortunately...the merchant is selling it for 50 pieces of "
-"gold, and due to my paladin vows of poverty I can't afford it."
+"personality."
 msgstr ""
 "C'è un artefatto maledetto conosciuto come un 'Anello dell'Alineamento "
 "Opposto.' Presumibilmente ha il potere di tramutare l'eroe più puro di cuore "
@@ -1693,8 +1694,15 @@ msgstr ""
 "vende per 50 pezzi d'oro, e a causa del mio voto di povertà non posso "
 "permettermelo."
 
+#. [message]: id=Sir Dryden
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1310
+msgid ""
+"I'm going to look into acquiring the ring. I'll be right back. (He leaves "
+"for a minute, then returns.)"
+msgstr ""
+
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1213
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1319
 msgid ""
 "(Lie) Corinna said that to win her heart you must travel to the faraway land "
 "of Tyrakia and pick a crystal rose for her."
@@ -1703,7 +1711,7 @@ msgstr ""
 "alla remota terra di Tyrakia e prendere una rosa di cristallo per lei."
 
 #. [message]: id=Sir Dryden
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1217
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1326
 msgid ""
 "A quest! A heroic quest to win the fair maiden's heart, just as in the "
 "stories of old! Oh Corinna, I will prove my worth to you in whatever way you "
@@ -1714,7 +1722,7 @@ msgstr ""
 "qualsiasi modo desideri! Verso Tyrakia!"
 
 #. [message]: id=Sir Dryden
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1221
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1330
 msgid ""
 "And thank you, elf damsel, for helping me woo Corinna! Please take this gold "
 "as a reward!"
@@ -1723,22 +1731,29 @@ msgstr ""
 "questo oro come ricompensa!"
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1225
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1334
 msgid "You gained twenty gold pieces!"
 msgstr "Hai guadagnato venti pezzi d'oro!"
 
+#. [message]: id=Sir Dryden
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1369
+msgid ""
+"Unfortunately...the merchant is selling the Ring of Opposite Alignment for "
+"50 pieces of gold, and due to my paladin vows of poverty I can't afford it."
+msgstr ""
+
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1263
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1383
 msgid "(Buy the ring) I'll pay for it."
 msgstr "(Compra l'anello) Lo paghero io."
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1267
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1390
 msgid "You lost 50 gold pieces!"
 msgstr "Hai perso 50 pezzi d'oro!"
 
 #. [message]: id=Sir Dryden
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1279
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1402
 msgid ""
 "Milady, you are a saint! (He rushes off to get the ring and returns in a few "
 "minutes.)"
@@ -1747,7 +1762,7 @@ msgstr ""
 "ritorna in qualche minuto.)"
 
 #. [message]: id=Sir Dryden
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1283
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1406
 msgid ""
 "Now you must convince Corinna to put on the ring. I'll leave the details up "
 "to you."
@@ -1755,17 +1770,19 @@ msgstr ""
 "Ora devi convincere Corinna a mettere l'anello. Lascio i dettagli a te."
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1287
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1410
 msgid "You got the Ring of Opposite Alignment!"
 msgstr "Hai ottenuto l'Anello dell'Alineamento Opposto!"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1299
-msgid "(Decline to help) Sorry, I can't afford to help you."
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1422
+#, fuzzy
+msgid "(Decline to help) Sorry, I can't help you right now."
 msgstr "(Rifiuta di aiutare) Spiacente, non posso permettermi di aiutarti."
 
 #. [message]: id=Sir Dryden
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1303
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1426
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1440
 msgid ""
 "Of course, milady. I know it was a lot to ask. Thank you for all your help. "
 "I must now contemplate my next course of action."
@@ -1774,23 +1791,18 @@ msgstr ""
 "mi hai dato. Ora devo pensare alle mie prossime mosse."
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1324
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1436
 msgid "I'm sorry, I don't have that much money either."
 msgstr "Spiacente, non ho abbastanza soldi."
 
-#. [message]: id=Sir Dryden
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1328
+#. [message]: id=Master Ooze
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1444
 msgid ""
-"(Groans) The merchant leaves town today. There's no way I'll be able to "
-"raise enough money in time. (Sigh) Thank you for all your help, milady. I "
-"must now contemplate my next course of action."
+"(If you still want to help Sir Dyden you can come back later with the money.)"
 msgstr ""
-"(Geme) Il mercante parte oggi. Non c'è modo per guadagnare abbastanza soldi "
-"in tempo. (Sospira) Grazie per il tuo aiuto, signora. Ora devo pensare alle "
-"mie prossime mosse."
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1347
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1459
 msgid ""
 "Your paladin problem has been taken care of. (You relate the details of what "
 "happened.)"
@@ -1799,7 +1811,7 @@ msgstr ""
 "ciò che è successo.)"
 
 #. [message]: id=Corinna
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1351
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1463
 msgid ""
 "Ha ha! What a clever way to get rid of that pompous fool! Here's your 75 "
 "gold, plus a little extra for your creativity!"
@@ -1808,27 +1820,27 @@ msgstr ""
 "tuoi 75 pezzi d'oro, più in piccolo extra per la tua creatività!"
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1355
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1467
 msgid "You gained 90 gold pieces!"
 msgstr "Hai guadagnato 90 pezzi d'oro!"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1379
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1487
 msgid "I've got another gift for you from your admirer."
 msgstr "Ho un  altro regalo per te dal tuo ammiratore."
 
 #. [message]: id=Corinna
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1383
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1491
 msgid "How dare you waste my time with this!"
 msgstr "Come osi farmi perdere tempo!"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1389
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1497
 msgid "(Lie) But you'll like this gift. It's a Ring of Magic Power!"
 msgstr "(Menti) Ma ti piacerà questo regalo. È un Anello del Potere Magico!"
 
 #. [message]: id=Corinna
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1393
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1501
 msgid ""
 "Well, maybe Dryden isn't as useless as he appeared. (She takes the ring and "
 "puts it on)."
@@ -1836,7 +1848,7 @@ msgstr ""
 "Bè, forse Dryden non è inutile come sembra. (Prende l'anello e lo indossa)."
 
 #. [message]: id=Corinna
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1397
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1505
 msgid ""
 "(She gets angry) Wait a minute! This isn't a Ring of Magic Power! (She tries "
 "to take it off but can't) It's cursed! Why that lousy, conniving paladin! "
@@ -1850,7 +1862,7 @@ msgstr ""
 "e pensare a qualcosa di altro."
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1406
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1514
 msgid ""
 "(Tell the truth) Dryden is giving you a chance to turn your life around with "
 "this Ring of Opposite Alignment."
@@ -1859,7 +1871,7 @@ msgstr ""
 "Anello dell'Alineamento Opposto."
 
 #. [message]: id=Corinna
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1410
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1518
 msgid ""
 "So he's trying to befuddle me with a cursed ring, eh? I'll take the ring, as "
 "I might find some uses for it. Uses which will not, of course, include "
@@ -1872,12 +1884,12 @@ msgstr ""
 "ringraziamenti a quel paladino idiota! (Ride crudelmente.)"
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1418
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1526
 msgid "You gained 100 gold pieces!"
 msgstr "Hai guadagnato 100 pezzi d'oro!"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1446
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1550
 msgid ""
 "I gave her the ring and she put it on. I...guess it worked. At least, I'm "
 "assuming it did based on the fact she hasn't melted the flesh off your bones "
@@ -1888,7 +1900,7 @@ msgstr ""
 "carne dalle tue ossa."
 
 #. [message]: id=Sir Dryden
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1450
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1554
 msgid ""
 "Well, I guess that's good news. I must admit I was hoping for a more "
 "instantaneous transition to Good, but perhaps the ring takes time to work."
@@ -1898,12 +1910,12 @@ msgstr ""
 "per funzionare."
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1454
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1558
 msgid "Or maybe she's just really, really evil."
 msgstr "O forse lei è solo molto, molto malvagia."
 
 #. [message]: id=Sir Dryden
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1458
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1562
 msgid ""
 "Maybe. I'll have to wait and see. As for you milady, you have done more for "
 "me than I ever could have hoped for. If you ever need a paladin by your "
@@ -1914,19 +1926,19 @@ msgstr ""
 "paladino dalla tua parte, io ci sarò."
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1462
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1566
 msgid "Thank you."
 msgstr "Grazie."
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1482
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1582
 msgid ""
 "I gave her the ring but she didn't put it on and I don't think she's going "
 "to."
 msgstr "Gli ho dato l'anello ma lei non lo ha indossato e non penso lo farà."
 
 #. [message]: id=Sir Dryden
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1486
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1586
 msgid ""
 "Nooo! All that effort, for nothing! I...I can't live like this...this "
 "unrequited love is consuming me from within! I must...flee Fort Pinewood "
@@ -1937,7 +1949,7 @@ msgstr ""
 "Pinewood prima di diventare pazzo di dolore."
 
 #. [message]: id=Frist
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1513
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1613
 msgid ""
 "Welcome to th' Training Hall. If yer lookin' ta sharpen yer combat skills "
 "before taking on th' ooze hordes, yer in the right place!"
@@ -1947,7 +1959,7 @@ msgstr ""
 "giusto!"
 
 #. [message]: id=Frist
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1517
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1617
 msgid ""
 "Thirty gold will get ya four magical quintains ta hone yer skills on. They "
 "shouldn't be too difficult ta defeat, but if ye should happen ta get "
@@ -1959,34 +1971,34 @@ msgstr ""
 "momento!"
 
 #. [message]: id=Frist
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1521
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1621
 msgid "So what do ye say lass? Ready ta train?"
 msgstr "Allora cosa ne dici ragazza? Pronta per l'allenamento?"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1527
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1627
 msgid "(Pay 30 gold) I'm ready to train!"
 msgstr "(Paga 30 pezzi d'oro) Sono pronta ad allentarmi!"
 
 #. [message]: id=Frist
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1537
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1637
 msgid ""
 "It looks like ye don't have that much. Come back when ye have more gold."
 msgstr "Sembra che non ne hai abbastanza. Ritorna quando avrai più oro."
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1550
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1650
 msgid "You lost 30 gold pieces!"
 msgstr "Hai perso 30 pezzi d'oro!"
 
 #. [message]: id=Frist
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1562
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1607
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1662
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1707
 msgid "Release the quintains!"
 msgstr "Rilasciate le quintane!"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1593
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1693
 msgid ""
 "(Beg) I'm poor and I don't have 30 gold! But I'm training to help save Fort "
 "Pinewood!"
@@ -1995,7 +2007,7 @@ msgstr ""
 "salvare Fort Pinewood!"
 
 #. [message]: id=Frist
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1603
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1703
 msgid ""
 "I'll be outta business if I just give away high quality quintain training "
 "for free ya know? On the other hand, I'll be outta business if the oozes "
@@ -2008,7 +2020,7 @@ msgstr ""
 "prometto di addestrti!"
 
 #. [message]: id=Frist
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1644
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1744
 msgid ""
 "I'll be outta business if I just give away high quality quintain training "
 "for free ya know? Besides, ye don't look that poor ta me."
@@ -2017,17 +2029,17 @@ msgstr ""
 "Inoltre, non mi sembri così povera."
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1652
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1752
 msgid "(Leave) I'm not interested in training right now."
 msgstr "(Te ne vai) Non sono interessata ad allenarmi per ora."
 
 #. [message]: id=Frist
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1656
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1756
 msgid "Come back soon!"
 msgstr "Ritorna presto!"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1674
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1774
 msgid ""
 "(You're out of breath and slicked with sweat. You've really pushed yourself "
 "hard, but it seems your efforts have paid off. You've unlocked some of the "
@@ -2038,7 +2050,7 @@ msgstr ""
 "segreti magici del tuo ospite elfo!)"
 
 #. [message]: id=Frist
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1678
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1778
 msgid ""
 "Yer a quick learner lass, one o' the quickest I've ever seen. But ye won't "
 "learn anything more from beat'n up on quintains. If ye want ta continue ta "
@@ -2051,7 +2063,7 @@ msgstr ""
 "mai i rischi saranno maggiori."
 
 #. [message]: id=Sergeant Ryn
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1682
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1782
 msgid ""
 "Frist told me that you were one of his best students at the Training Hall, "
 "but here in the Arena it's the real deal. Combat is brutal and to the death. "
@@ -2064,19 +2076,19 @@ msgstr ""
 "guadagnare un po' di oro e acquisire esperienza in combattimento."
 
 #. [label]
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1689
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1789
 msgid "Arena"
 msgstr "Arena"
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1701
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1801
 msgid ""
 "When you're finished exploring Fort Pinewood, head back to the front gate!"
 msgstr ""
 "Quando hai finito di esplorare Fort Pinewood, ritorna al cancello principale!"
 
 #. [message]: id=Sergeant Ryn
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1734
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1834
 msgid ""
 "Welcome to the Pinewood Arena, where gladiators fight monsters for glory and "
 "profit. Gladiators may not leave the arena before a fight is finished. All "
@@ -2089,17 +2101,17 @@ msgstr ""
 "guarirti vai dal Sommo Sacerdote Jal a est."
 
 #. [message]: id=Sergeant Ryn
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1738
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1838
 msgid "Do you want to compete?"
 msgstr "Vuoi combattere?"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1744
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1844
 msgid "I'm ready to fight!"
 msgstr "Sono pronta a combattere!"
 
 #. [message]: id=Sergeant Ryn
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1748
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1848
 msgid "Let the match begin!"
 msgstr "Che l'incontro abbia inizio!"
 
@@ -2110,33 +2122,33 @@ msgstr "Che l'incontro abbia inizio!"
 #. [unit]: type=Saurian Skirmisher, id=Arena Monster
 #. [unit]: type=Goblin Impaler, id=Arena Monster
 #. [unit]: type=Wolf, id=Arena Monster
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1780
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1813
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1846
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1879
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1912
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1945
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1978
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1880
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1913
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1946
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:1979
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2012
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2045
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2078
 msgid "Arena Monster"
 msgstr "Mostro dell'Arena"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2005
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2105
 msgid "I'm not interested in fighting right now."
 msgstr "Non sono interessata a combattere per ora."
 
 #. [message]: id=Sergeant Ryn
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2009
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2109
 msgid "Fair enough. Come back when you're ready."
 msgstr "Bene. Ritorna quando sarai pronta."
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2026
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2126
 msgid "You are victorious and win 10 gold pieces!"
 msgstr "Sei vittorioso e guadagni 10 pezzi d'oro!"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2065
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2165
 msgid ""
 "Your prowess is unmatched! Through hard work and great courage you've forged "
 "yourself into a mighty enchantress! You've learned to tap deeply into the "
@@ -2147,7 +2159,7 @@ msgstr ""
 "profondamente la magia del tuo sangue elfico!"
 
 #. [message]: id=Sergeant Ryn
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2069
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2169
 msgid ""
 "Very impressive. I'm afraid you've been so successful in the arena that our "
 "stock of monsters has been almost completely depleted! There is one last "
@@ -2158,7 +2170,7 @@ msgstr ""
 "sfida che possiamo offrirti..."
 
 #. [message]: id=Sergeant Ryn
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2073
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2173
 msgid ""
 "We have a wild gryphon. It is a fearsome beast with sharp talons and a "
 "deadly beak. Already the creature has slain four challengers. The reward for "
@@ -2171,32 +2183,32 @@ msgstr ""
 "grande che tu abbia mai affrontato."
 
 #. [message]: id=Sergeant Ryn
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2103
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2203
 msgid "Do you want to the fight gryphon?"
 msgstr "Vuoi combattere il grifone?"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2109
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2209
 msgid "Yes!"
 msgstr "Sì!"
 
 #. [message]: id=Sergeant Ryn
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2113
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2213
 msgid "Release the gryphon!"
 msgstr "Rilasciate il grifone!"
 
 #. [unit]: type=Gryphon, id=Bloodtalon
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2139
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2239
 msgid "Bloodtalon"
 msgstr "Bloodtalon"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2163
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2263
 msgid "Not right now."
 msgstr "Non ora."
 
 #. [message]: id=Sergeant Ryn
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2167
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2267
 msgid ""
 "Fair enough. No one will think less of you for walking away from this fight."
 msgstr ""
@@ -2204,12 +2216,12 @@ msgstr ""
 "combattimento."
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2184
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2284
 msgid "You are victorious and win 30 gold pieces!"
 msgstr "Sei vittorioso e vinci 30 pezzi d'oro!"
 
 #. [message]: id=Sergeant Ryn
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2196
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2296
 msgid ""
 "What a spectacular fight! What a terrific victory! All hail Aurelia, "
 "Champion of the Pinewood Arena!"
@@ -2218,7 +2230,7 @@ msgstr ""
 "Aurelia, Campionessa dell'Arena di Pinewood!"
 
 #. [message]: id=Sergeant Ryn
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2250
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2350
 msgid ""
 "Welcome back, Champion! Unfortunately the arena is closed until we can "
 "restock our monster supply."
@@ -2227,12 +2239,12 @@ msgstr ""
 "possiamo rifornirci di mostri."
 
 #. [message]: id=Fontaine
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2270
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2370
 msgid "(A young man in fine clothes approaches you and smiles.)"
 msgstr "(Un giovane uomo in vestiti eleganti ti viene icontro e sorride.)"
 
 #. [message]: id=Fontaine
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2274
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2374
 msgid ""
 "You have a very fine figure, if I may say so milady. May I have the honor of "
 "painting your picture?"
@@ -2241,21 +2253,21 @@ msgstr ""
 "dipingere un tuo ritratto?"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2284
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2278
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2304
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2292
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2378
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2404
 msgid "(How to respond?)"
 msgstr "(Come rispondi?)"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2280
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2380
 msgid ""
 "(Be suspicious) If you're a painter then what are you doing with those "
 "swords?"
 msgstr "(Sii sospettoso) Se sei un pittore allora cosa ne fai di quelle spade?"
 
 #. [message]: id=Fontaine
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2284
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2384
 msgid ""
 "Truthfully, I'm a mercenary by trade. But my true passion lies in painting. "
 "(Bitterly) Alas, there isn't much appreciation for high-quality artwork in "
@@ -2268,17 +2280,17 @@ msgstr ""
 "bisogni, ma un giorno sarò famoso abbastanza per vendere i miei lavori!"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2289
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2389
 msgid "(Be friendly) Of course you can paint my picture!"
 msgstr "(Sii amichevole) Certamente che puoi dipingere un mio ritratto!"
 
 #. [message]: id=Fontaine
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2293
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2393
 msgid "(Excited) Thank you milady!"
 msgstr "(Eccitato) Grazie signora!"
 
 #. [message]: id=Fontaine
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2300
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2400
 msgid ""
 "I'll pay you 30 gold for a day's worth of modeling services. (Hesitantly) "
 "Or...60 gold if I may paint you...in your natural, ahem, state."
@@ -2287,12 +2299,12 @@ msgstr ""
 "d'oro se potrò dipingerti ... nel tuo stato, ahem, naturale."
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2306
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2406
 msgid "(Refuse) I'm not about to take a job from a complete stranger."
 msgstr "(Rifiuta) Non darò un lavoro a un completo estraneo."
 
 #. [message]: id=Fontaine
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2310
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2410
 msgid ""
 "(Disappointed Sigh) I assure you I have no ulterior motives, milady, but..."
 "if that is your answer I suppose I must accept it. Good day to you. "
@@ -2302,13 +2314,13 @@ msgstr ""
 "giornata."
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2315
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2415
 msgid "(Accept) You can paint me for 30 gold."
 msgstr "(Accetta) Puoi fare un mio ritratto per trenta pezzi d'oro."
 
 #. [message]: id=Fontaine
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2319
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2352
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2419
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2452
 msgid ""
 "Thank you milady! I've never painted a specimen as exotic as an elf before! "
 "I wonder how much shading I should put on your ears..."
@@ -2317,18 +2329,18 @@ msgstr ""
 "prima! Mi chiedo che sfumature dovrò usare per le tue orecchie..."
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2323
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2423
 msgid "(You spend a day modeling for Fontaine!)"
 msgstr "(Trascorri un giorno facendo da modella per Fontaine!)"
 
 #. [message]: id=Fontaine
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2327
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2360
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2427
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2460
 msgid "(Fontaine's painting of you is actually quite good.) "
 msgstr "(Il tuo ritratto fatto da Fontaine è veramente molto bello.)"
 
 #. [message]: id=Fontaine
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2331
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2431
 msgid ""
 "(Proud) One of my better works, to be sure. And here is your payment milady, "
 "you earned every copper."
@@ -2337,23 +2349,23 @@ msgstr ""
 "tuo pagamento, ti guadagnata ogni moneta."
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2335
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2485
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2435
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2585
 msgid "You earned 30 gold pieces!"
 msgstr "Hai guadagnato 30 pezzi d'oro!"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2348
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2448
 msgid "(Accept) You can paint me nude for 60 gold."
 msgstr "(Accetta) Puoi dipingermi nuda per 60 pezzi d'oro."
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2356
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2456
 msgid "(You spend a day modeling nude for Fontaine!)"
 msgstr "(Trascorri un giorno facendo da modella per Fontaine!)"
 
 #. [message]: id=Fontaine
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2364
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2464
 msgid ""
 "(Proud) One of my better works, to be sure. And here is your payment milady, "
 "you earned every copper!"
@@ -2362,12 +2374,12 @@ msgstr ""
 "tuo pagamento, ti guadagnata ogni moneta."
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2368
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2468
 msgid "You earned 60 gold pieces!"
 msgstr "Hai guadagnato 60 pezzi d'oro!"
 
 #. [message]: id=Fontaine
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2380
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2480
 msgid ""
 "If I may be so bold milady, you are a goddess, a diva! I think I will make "
 "you my Muse..."
@@ -2376,12 +2388,12 @@ msgstr ""
 "farò la mia Musa..."
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2384
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2484
 msgid "?!"
 msgstr "?!"
 
 #. [message]: id=Livius
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2408
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2508
 msgid ""
 "Fie and fiddle, where has my blasted book gone?! You! Elf! If you happen to "
 "see a thick silver tome, bring it to me immediately for a reward!"
@@ -2391,7 +2403,7 @@ msgstr ""
 "ricompensa!"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2432
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2532
 msgid ""
 "(This looks like the book that Livius is looking for. You can bring it back "
 "to him for a reward.)"
@@ -2400,7 +2412,7 @@ msgstr ""
 "lui per una ricompensa.)"
 
 #. [message]: id=Livius
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2469
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2569
 msgid ""
 "You found my book, 'Exotic Culinary Delights -- How to Serve Magical Oozes, "
 "Slimes, and Puddings'!"
@@ -2409,7 +2421,7 @@ msgstr ""
 "Fanghiglie Magiche, Melme, e Budini'!"
 
 #. [message]: id=Livius
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2481
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2581
 msgid ""
 "Here's 30 gold pieces for your help (he tosses a pouch of coins at your "
 "feet)."
@@ -2418,7 +2430,7 @@ msgstr ""
 "piedi)."
 
 #. [message]: id=Livius
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2497
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2597
 msgid ""
 "After the Imperial Army crushes the ooze hordes, I'll make a fortune "
 "harvesting the corpses of the slimy creatures. They're quite a delicacy, you "
@@ -2428,17 +2440,17 @@ msgstr ""
 "fortuna raccogliendo i cadaveri delle fangose creature. Sono una squisitezza!"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2501
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2601
 msgid "(You had no idea you were tasty, much less a valuable food commodity)."
 msgstr "(Non hai idea se tu fossi buono come cibo)."
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2503
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2603
 msgid "(Angry) You horrible man, get away from me!"
 msgstr "(Arrabbiato) Sei un uomo orribile, sta lontana da me!"
 
 #. [message]: id=Livius
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2507
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2607
 msgid ""
 "I hope you don't have some misguided sense of sympathy for those monsters. "
 "They'd devour a helpless elf lass like yourself in moments! Bah! I don't "
@@ -2449,19 +2461,19 @@ msgstr ""
 "Bah! Non ho tempo da perdere con te, ho da fare in cucina."
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2512
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2612
 msgid "(Wish him luck) Good luck, you're going to need it."
 msgstr "(Auguragli fortuna) Buona fortuna, ne avrai bisogno."
 
 #. [message]: id=Livius
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2516
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2616
 msgid ""
 "No I won't but thanks all the same. Now if you'll excuse me, I've got "
 "cooking preparations to make."
 msgstr "No, non credo, ma grazie lo stesso. Ora scusami, ho da fare in cucina."
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2535
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2635
 msgid ""
 "(You see a sun-tanned farmer by the roadside leaning heavily on his "
 "pitchfork.)"
@@ -2470,12 +2482,12 @@ msgstr ""
 "sul suo forcone.)"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2541
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2641
 msgid "(Friendly) Hello sir! How are you this fine day?"
 msgstr "(Amichevolmente) Salve! Come va la giornata?"
 
 #. [message]: id=Jedd
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2545
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2645
 msgid ""
 "(He spits some tobacco) Lousy. Threw my back out bringing in the harvest. "
 "Can't bring the rest of my hay to market with a bad back, so I'm about to go "
@@ -2487,7 +2499,7 @@ msgstr ""
 "migliori."
 
 #. [message]: id=Jedd
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2549
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2649
 msgid ""
 "Maybe you can help me? I need to hire a farmhand to bring in the rest of my "
 "hay before it rots. What do you say to 30 gold and a day's worth of honest "
@@ -2498,18 +2510,18 @@ msgstr ""
 "onesto lavoro?"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2555
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2655
 msgid "(Small talk) So what's your opinion on the ooze crisis?"
 msgstr ""
 "(Chiacchera) Allora qual'è la tua opinione sul problema delle fanghiglie?"
 
 #. [message]: id=Jedd
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2559
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2659
 msgid "(He spits some tobacco) The what crisis?"
 msgstr "(Sputa un po' di tabacco) Che problema?"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2563
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2663
 msgid ""
 "Surely you've heard that there's a horde of ravenous amorphous creatures "
 "rampaging across the countryside."
@@ -2518,22 +2530,22 @@ msgstr ""
 "scorrazzano per la campagna."
 
 #. [message]: id=Jedd
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2567
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2667
 msgid "(He stares at you blankly.)"
 msgstr "(Ti fissa senza espressione.)"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2571
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2671
 msgid "They beat the Pinewood Militia!"
 msgstr "Hanno sconfitto la Milizia di Pinewood!"
 
 #. [message]: id=Jedd
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2575
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2675
 msgid "Sorry, I don't get out much."
 msgstr "Spiacente, non ne so niente."
 
 #. [message]: id=Jedd
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2579
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2679
 msgid ""
 "I'm just a simple farmer. I don't got time for monsters, militias, or that "
 "idiot mayor of ours. Not a one of 'em ever did a hard days' work! But you "
@@ -2544,7 +2556,7 @@ msgstr ""
 "Ma ragazza, sembri che tua possa essere capace di aiutarmi..."
 
 #. [message]: id=Jedd
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2583
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2683
 msgid ""
 "I threw out my back bringing in the summer harvest. I need to hire a "
 "farmhand to bring in those bushels o' hay oe'er yonder before they rot. What "
@@ -2555,12 +2567,12 @@ msgstr ""
 "30 pezzi d'oro per un giorno di onesto lavoro? "
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2593
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2693
 msgid "(Agree to Help) I'll help you!"
 msgstr "(Acetta di aiutarlo) Ti aiuterò!"
 
 #. [message]: id=Jedd
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2597
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2697
 msgid ""
 "(He spits some more tobacco) Great. The hay is right next to my farm. Return "
 "here when you're done."
@@ -2569,24 +2581,24 @@ msgstr ""
 "fattoria. Torna quando hai fatto."
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2619
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2719
 msgid "(Refuse) I don't have time for this."
 msgstr "(Rifiuta) Non ho tempo per questo."
 
 #. [message]: id=Jedd
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2623
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2723
 msgid "(He spits some more tobacco) Suit yourself."
 msgstr "(Sputa ancora un po' di tabacco) Come vuoi."
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2655
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2690
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2725
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2755
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2790
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2825
 msgid "(You help Jedd with some of his farm work.)"
 msgstr "(Aiuti Jedd con un po' di lavoro nella fattoria.)"
 
 #. [message]: id=Jedd
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2772
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2872
 msgid ""
 "You've been a great help, lass! The world needs more people like you! Here's "
 "your thirty gold, plus a little extra!"
@@ -2595,18 +2607,18 @@ msgstr ""
 "te! Ecco i tuoi trenta pezzi d'oro, con un piccolo extra!"
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2780
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2880
 msgid "You earned forty gold pieces!"
 msgstr "Hai guadagnato quaranta pezzi d'oro!"
 
 #. [message]: id=Brock
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2817
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2917
 msgid "Welcome to Brock's Tavern. Five gold pieces for full room and board!"
 msgstr ""
 "Benvenuta nella Taverna di Brock. Cinque pezzi d'oro per una stanza e vitto!"
 
 #. [message]: id=Brock
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2827
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2927
 #, fuzzy
 msgid ""
 "Or perhaps you've come to challenge me, the Fort Pinewood Armwrestling "
@@ -2616,57 +2628,57 @@ msgstr ""
 "Pinewood, in una gara di forza?"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2835
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2935
 msgid "(Stay at the Tavern) I want a room."
 msgstr "(Alloggia alla Taverna) Voglio una stanza."
 
 #. [message]: id=Frist
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2845
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2945
 msgid ""
 "It looks like you don't have five gold. Come back when you have more gold."
 msgstr ""
 "Sembra che tu non abbia cinque pezzi d'oro. Ritorna quando avrai più oro."
 
 #. [message]: id=Brock
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2857
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2910
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2957
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3010
 msgid "Splendid!"
 msgstr "Splendido!"
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2861
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3565
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2961
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3746
 msgid "You lost five gold pieces!"
 msgstr "Hai perso cinque pezzi d'oro!"
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2886
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3761
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2986
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3942
 msgid "You wake up the next day feeling refreshed!"
 msgstr "Ti risvegli il giorno dopo sentendoti riposato!"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2894
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2994
 msgid "(Challenge him) I want to challenge you."
 msgstr "(Sfidalo) Voglio sfidarti."
 
 #. [message]: id=Brock
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2904
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3004
 msgid "Sorry lass, you've already challenged me, remember?"
 msgstr "Spiacente ragazza, mi hai già sfidato, ricordi?"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2921
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3021
 msgid "(Leave) Goodbye."
 msgstr "(Congedati) Arrivederci."
 
 #. [message]: id=Brock
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2925
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3025
 msgid "Come again!"
 msgstr "Ritorna quando vuoi!"
 
 #. [message]: id=Brock
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2939
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3039
 msgid ""
 "Many strong men have tried to defeat me and failed. I doubt a little elf "
 "lass like you will put up much of a fight, but I never turn away a "
@@ -2677,7 +2689,7 @@ msgstr ""
 "indietro davanti uno sfidante, ha ha!"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2947
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3047
 msgid ""
 "(You both get into position. Looking at the size of the huge muscles on "
 "Brock's arm, you realize that he will not be easy to defeat.)"
@@ -2686,18 +2698,18 @@ msgstr ""
 "del braccio di Brock, capisci che non sarà facile da sconfiggere.)"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2951
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3418
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3051
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3567
 msgid "(What to do?)"
 msgstr "(Cosa fai?)"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2953
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3053
 msgid "(Force Brock's arm down with sheer brute strength)"
 msgstr "(Manda giù il braccio di Brock con la mera forza bruta)"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2963
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3063
 msgid ""
 "(Both you and Brock grunt with exertion and your arm muscles bulge. At first "
 "you seem to be evenly matched, but gradually you prove yourself to be the "
@@ -2708,7 +2720,7 @@ msgstr ""
 "essere il più forte competitore e pieghi il suo braccio. Hai vinto!)"
 
 #. [message]: id=Brock
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2967
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3067
 msgid ""
 "(He seems surprised at first but then laughs heartily) You're the strongest "
 "elf lass I've ever met! Good show! The reward for beating me is thirty "
@@ -2719,28 +2731,29 @@ msgstr ""
 "d'oro, e te li sei guadagnati tutti!"
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2971
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3014
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3057
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3100
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3235
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3281
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3071
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3114
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3157
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3200
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3335
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3381
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3430
 msgid "You gained thirty gold pieces!"
 msgstr "Hai guadagnato trenta pezzi d'oro!"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2985
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3028
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3071
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3114
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3085
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3128
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3171
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3214
 msgid "(Brock effortlessly pins your arm to the table. You lost!)"
 msgstr "(Brock senza sforzo schiaccia il tuo braccio sul tavolo. Hai perso!)"
 
 #. [message]: id=Brock
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2989
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3032
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3075
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3118
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3089
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3132
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3175
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3218
 msgid ""
 "Don't be sad lass, many men far stronger than you have challenged me and "
 "lost."
@@ -2749,14 +2762,14 @@ msgstr ""
 "sfidato e hanno perso."
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:2996
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3096
 msgid "(Move quickly as soon as the match starts to take him by surprise)"
 msgstr ""
 "(Muoviti velocemente il più presto possibile appena l'incontro inizia per "
 "prenderlo di sorpresa)"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3006
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3106
 msgid ""
 "(You move with blinding speed the instant the match starts. With a loud "
 "THUMP you slam Brock's arm down. He gapes at you in surprise. You won!)"
@@ -2766,7 +2779,7 @@ msgstr ""
 "guarda con la bocca spalancata dalla sorpresa. Hai vinto!)"
 
 #. [message]: id=Brock
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3010
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3110
 msgid ""
 "I...I can't believe I lost. By the Gods you're quick. You knew you couldn't "
 "overpower me so you counted on me underestimating you. Good show! The reward "
@@ -2778,12 +2791,12 @@ msgstr ""
 "guadagnati tutti!"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3039
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3139
 msgid "(Simply try and hold your ground to wear him out)"
 msgstr "(Semplicemente prova a tenere il tuo terreno per stancarlo)"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3049
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3149
 msgid ""
 "(Brock pushes hard against you but you're able to hold your own...barely. "
 "More than a minute passes and beads of sweat break out on both your "
@@ -2796,7 +2809,7 @@ msgstr ""
 "vinto!)"
 
 #. [message]: id=Brock
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3053
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3153
 msgid ""
 "I...I can't believe I lost. By the Gods you're hardy. You knew you couldn't "
 "outright overpower me so you counted on me wearing myself out. Good show! "
@@ -2809,12 +2822,12 @@ msgstr ""
 "guadagnati tutti!"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3082
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3182
 msgid "(Try to get your arm into a superior position)"
 msgstr "(Prova a mettere il tuo braccio in una posizione superiore)"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3092
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3192
 msgid ""
 "(Brock presses against you hard and you realize you won't have much time "
 "before he pins you. You jockey for a better position and finally get it! "
@@ -2827,7 +2840,7 @@ msgstr ""
 "braccio. Hai vinto!)"
 
 #. [message]: id=Brock
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3096
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3196
 msgid ""
 "I...I can't believe I lost. By the Gods that was an odd strategy. I've never "
 "seen anyone armwrestle like that before. Good show! The reward for beating "
@@ -2839,14 +2852,14 @@ msgstr ""
 "sei guadagnati tutti!"
 
 #. [message]: id=Valin
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3145
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3245
 msgid "Back again? You only get one shot at my game, no pun intended."
 msgstr ""
 "Ancora qui? Puoi solamente tirare una sola volta nel mio gioco, non intendo "
 "discutere"
 
 #. [message]: id=Valin
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3158
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3258
 msgid ""
 "Come one come all! Test your SKILL at archery and win PRIZE MONEY! Hit the "
 "bulls eye in ONE shot from THIRTY paces! Easy you say? Not really! BEHOLD "
@@ -2857,38 +2870,41 @@ msgstr ""
 "dici? Non è così! SCEGLIETE l'arco che che volete usare!"
 
 #. [message]: id=Valin
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3162
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3262
+#, fuzzy
 msgid ""
-"(With a flourish he produces two bizarre longbows. One is so large that it "
-"seems to have been made for a giant, while the other is an exotic curved bow "
-"of uncertain origin.)"
+"(With a flourish he produces three bizarre longbows. One is so large that it "
+"seems to have been made for a giant. Another is an exotic curved bow of "
+"uncertain origin. The third bow has a bowstring drawn so taut it looks like "
+"you might hurt yourself trying to draw it!)"
 msgstr ""
 "(Con un gesto plateale esibì due archi bizzarri. Uno così grande che sembra "
 "essere fatto per un gigante, mentre l'altro arco stranamente curvato della "
 "origini incerte.)"
 
 #. [message]: id=Valin
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3166
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3266
+#, fuzzy
 msgid ""
 "Do you have the strength to wield the OGRE'S LONGBOW? Or are you skilled "
-"enough to decipher the mysteries of the TYRAKIAN HORSEBOW? Step right up to "
-"find out!"
+"enough to decipher the mysteries of the TYRAKIAN HORSEBOW? Or perhaps you're "
+"brave enough to try the BACKBREAKER BOW? Step right up to find out!"
 msgstr ""
 "Avete la forza per usare l'ARCO PER OGRI? O siete abbastanza abili per "
 "decifrare i misteri dell'ARCO DI TYRAKIAN? Venite a scoprirlo!"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3170
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3270
 msgid "(Compete?)"
 msgstr "(Competi?)"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3172
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3272
 msgid "I want to try."
 msgstr "Voglio provare."
 
 #. [message]: id=Valin
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3176
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3276
 msgid "Now you have to choose what bow you're going to use..."
 msgstr "Ora devi scegliere quale arco usare..."
 
@@ -2896,27 +2912,27 @@ msgstr "Ora devi scegliere quale arco usare..."
 #. [option]: id=Master Ooze
 #: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1053
 #: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1125
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3185
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3285
 msgid "(Leave)"
 msgstr "(Congedati)"
 
 #. [message]: id=Valin
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3189
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3289
 msgid "Another time perhaps."
 msgstr "Forse un'altra volta."
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3212
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3312
 msgid "(What bow should you choose?)"
 msgstr "(Quale arco scegli?)"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3214
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3314
 msgid "(Choose the huge bow)"
 msgstr "(Segli l'arco gigante)"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3227
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3327
 msgid ""
 "(It takes all your strength to bend this bow. When you loose your arrow it "
 "thuds into the target with tremendous force. You did it!)"
@@ -2925,7 +2941,7 @@ msgstr ""
 "freccia colpì il bersaglio con una forza tremenda. Ce l'hai fatta!)"
 
 #. [message]: id=Valin
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3231
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3331
 msgid ""
 "Congratulations! Archery isn't JUST about marksmanship! Sometimes you've got "
 "to be pretty STRONG to make a bow WORK how you want it to. Here is your "
@@ -2936,25 +2952,25 @@ msgstr ""
 "Ecco il tuo PREMIO IN DENARO!"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3249
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3349
 msgid "(Your efforts to bend the huge bow are completely futile. You failed!)"
 msgstr ""
 "(I tuoi sforzi per tendere l'enorme arco sono completamente inutili. Hai "
 "fallito!)"
 
 #. [message]: id=Valin
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3253
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3353
 msgid ""
 "And it seems the OGRE'S LONGBOW has triumphed over yet ANOTHER contestant!"
 msgstr "E sembra che l'ARCO PER OGRI abbia trionfato su un ALTRO partecipante!"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3260
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3360
 msgid "(Choose the complicated foreign bow)"
 msgstr "(Sceglio il complicato arco straniero)"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3273
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3373
 msgid ""
 "(You run your slender fingers along the bow, trying to get a feel for it. It "
 "is oddly balanced, but you feel confident you can make it work. Your "
@@ -2965,7 +2981,7 @@ msgstr ""
 "fiducia ti ripaga quando la freccia colpisce il bersaglio. Ce l'hai fatta!)"
 
 #. [message]: id=Valin
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3277
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3377
 msgid ""
 "Congratulations! Archery isn't JUST about marksmanship! Sometimes you've got "
 "to be pretty DEXTROUS to make a bow WORK how you want it to. Here is your "
@@ -2976,7 +2992,7 @@ msgstr ""
 "Ecco il tuo PREMIO IN DENARO!"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3298
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3398
 msgid ""
 "(Your efforts to make the exotic bow work are completely futile. Your arrow "
 "flies off target and into the grass. You failed!)"
@@ -2985,14 +3001,53 @@ msgstr ""
 "tua freccia vola oltre il bersaglio e colpisce il terreno. Hai fallito!)"
 
 #. [message]: id=Valin
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3302
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3402
 msgid ""
 "And it seems the TYRAKIAN HORSEBOW has triumphed over yet ANOTHER contestant!"
 msgstr ""
 "E sembra che l'ARCO DI TYRAKIAN abbia trionfato su un ALTRO partecipante!"
 
+#. [option]: id=Master Ooze
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3409
+#, fuzzy
+msgid "(Choose the ultra-taut backbreaker bow)"
+msgstr "(Segli l'arco gigante)"
+
+#. [message]: id=Master Ooze
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3422
+msgid ""
+"(The bow is aptly named. You nearly break your back trying to draw it! But "
+"your persistence pays off as your arrow thunks into the target. You did it!)"
+msgstr ""
+
+#. [message]: id=Valin
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3426
+#, fuzzy
+msgid ""
+"Congratulations! Archery isn't JUST about marksmanship! Sometimes you've got "
+"to be pretty RESILIENT to make a bow WORK how you want it to. Here is your "
+"PRIZE MONEY!"
+msgstr ""
+"Congratulazioni! Il tiro con l'arco non è SOLO avere una buona precisione! A "
+"volte devi essere abbastanza FORTE per far FARE a un arco quello che vuoi. "
+"Ecco il tuo PREMIO IN DENARO!"
+
+#. [message]: id=Master Ooze
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3447
+msgid ""
+"(The bow is aptly named. You nearly break your back trying to draw it! Your "
+"arrow flies a pitiful distance into the grass. You failed!)"
+msgstr ""
+
+#. [message]: id=Valin
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3451
+#, fuzzy
+msgid "And it seems the BACKBREAKER has triumphed over yet ANOTHER contestant!"
+msgstr ""
+"E sembra che l'ARCO DI TYRAKIAN abbia trionfato su un ALTRO partecipante!"
+
 #. [message]: id=Ram Aide
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3331
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3480
 msgid ""
 "All that drink'in shure wash fun. I think I'm gonna regret it in tha morning "
 "though."
@@ -3001,18 +3056,18 @@ msgstr ""
 "all'alba."
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3344
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3493
 msgid "(You see a surly looking dwarf leaning up against a gigantic barrel.)"
 msgstr ""
 "(Vedi un nano dall'aria scontrosa appoggiarsi contro un barile gigante.)"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3348
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3497
 msgid "That's a BIG barrel you've got there..."
 msgstr "Che GRANDE barile che hai..."
 
 #. [message]: id=Ram Aide
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3352
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3501
 msgid ""
 "(His speech is slurred and you realize he's drunk) Yessh, yessh it is my "
 "pretty. And itsh mine, ALL mine!!! All tha booze in tha worldsh! Hic!"
@@ -3021,15 +3076,16 @@ msgstr ""
 "TUTTO mio!!! Tutta la birra del mondo! Hic!"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3356
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3505
 msgid "So that barrel is full of liquor? Why do you need so much?"
 msgstr "Quindi quel barile è pieno di birra? Perchè te ne serve così tanta?"
 
 #. [message]: id=Ram Aide
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3360
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3509
+#, fuzzy
 msgid ""
 "Ta blowsh the bridge of coursh! Tha bridge inta town. Tha oozes gonna BURN "
-"when they get to Pinewood, ha ha hic! Or ats least thatsh what tha mayer "
+"when they get to Pinewood, ha ha hic! Or ats least thatsh what tha Mayor "
 "says."
 msgstr ""
 "Per abbattere il ponte naturalmente! Il ponte della città. Le fanghiglie "
@@ -3037,18 +3093,18 @@ msgstr ""
 "il shindaco dice."
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3364
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3513
 msgid "(How to react?)"
 msgstr "(Come regisci?)"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3366
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3515
 msgid ""
 "I don't think you're responsible enough to be the custodian of that barrel."
 msgstr "Non penso che sei abbastanza responsabile per custodire quel barile."
 
 #. [message]: id=Ram Aide
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3370
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3519
 msgid ""
 "Hic! I am TOO vigilant! You notish how none o' thosh oozes haf come ta town "
 "yet? They KNOWSH I could spots 'em a mile away! Hic!"
@@ -3058,38 +3114,38 @@ msgstr ""
 "di distanza! Hic!"
 
 #. [message]: id=Ram Aide
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3374
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3523
 msgid "If yoush wants tha barrel, you gotta PROVE you deserve it!"
 msgstr "She vuoi il barile, devi PROVARE di meritartelo!"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3378
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3527
 msgid "How?"
 msgstr "Come?"
 
 #. [message]: id=Ram Aide
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3382
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3531
 msgid "Why, the only wayth you can prove anything! A drink'in contesht!"
 msgstr ""
 "Nell'unico modo in cui puoi provare tutto! In una gara a chi beve di più!"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3394
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3543
 msgid "(Leave) I don't care about this."
 msgstr "(Congedati) Non mi interessa."
 
 #. [message]: id=Ram Aide
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3398
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3547
 msgid "Goodb-hic!"
 msgstr "Arriv-hic!"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3420
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3569
 msgid "(Try and out-drink Ram Aide)"
 msgstr "(Prova a battere Ram Aide)"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3430
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3579
 msgid ""
 "(You drink cup after cup of hard liquor. Your vision blurs and the world "
 "becomes hazy. After an hour you can barely stand, but Ram Aide has collapsed "
@@ -3100,8 +3156,9 @@ msgstr ""
 "Ram Aide cade al suolo in un sonno ubriaco. Hai vinto!)"
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3439
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3471
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3588
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3620
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3652
 msgid ""
 "You've gained possession of a gigantic barrel of booze. Perhaps you'll be "
 "able to find some use for it later."
@@ -3110,7 +3167,7 @@ msgstr ""
 "capace di trovarne qualche impiego più tardi."
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3445
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3594
 msgid ""
 "(You drink cup after cup of hard liquor. Your vision blurs and the world "
 "becomes hazy. After an hour you collapse in a drunken stupor, Ram Aide's "
@@ -3123,7 +3180,7 @@ msgstr ""
 "prima di cadere nell'incoscenza. Hai fallito!)"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3452
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3601
 msgid ""
 "(Cheat in the drinking contest by quickly tossing the liquor in the grass "
 "when Ram Aide isn't looking)"
@@ -3132,7 +3189,7 @@ msgstr ""
 "Aide non guarda)"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3462
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3611
 msgid ""
 "(Your cheating has paid off! Ram Aide collapses in a drunken stupor after an "
 "hour of hard drinking. You've won!)"
@@ -3141,7 +3198,7 @@ msgstr ""
 "dopo un'ora di bevute. Hai vinto!)"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3477
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3626
 msgid ""
 "(You aren't quick enough. Ram Aide notices your cheating and chases you away "
 "from his barrel at gunpoint. You failed!)"
@@ -3150,74 +3207,100 @@ msgstr ""
 "dal barile com una pistola. Hai fallito!)"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3484
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3633
+msgid ""
+"(Deftly place some noxious herbs in Ram Aide's tankard when he isn't looking)"
+msgstr ""
+
+#. [message]: id=Master Ooze
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3643
+#, fuzzy
+msgid ""
+"(Your cheating has paid off! Ram Aide is forced to forfeit after getting "
+"sick. You've won!)"
+msgstr ""
+"(Il tuo imbroglio ti ha ripagato! Ram Aide sprofonda in un sonno ubriaco "
+"dopo un'ora di bevute. Hai vinto!)"
+
+#. [message]: id=Master Ooze
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3658
+#, fuzzy
+msgid ""
+"(You aren't dexterous enough. Ram Aide notices your attempt and chases you "
+"away from his barrel at gunpoint. You failed!)"
+msgstr ""
+"(Non sei abbastanza veloce. Ram Aide scopre il tuo imbroglio e ti scaccia "
+"dal barile com una pistola. Hai fallito!)"
+
+#. [option]: id=Master Ooze
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3665
 msgid "This is ridiculous, goodbye!"
 msgstr "Questo è ridicolo, arrivederci!"
 
 #. [message]: id=Ram Aide
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3488
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3669
 msgid "Goodby-hic!"
 msgstr "Arriv-hic!"
 
 #. [message]: id=High Priest Jal
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3519
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3700
 msgid "May the blessings of Pelor be upon thee, child."
 msgstr "Possa la luce di Pelor essere su di te, figliuola."
 
 #. [message]: id=High Priest Jal
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3532
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3713
 msgid "Would you be interested in making a donation to Pelor, god of healing?"
 msgstr ""
 "Saresti interessanta a fare una donazione a Pelor, dio della guarigione?"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3538
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3719
 msgid "(Make a small donation) Here's five gold pieces."
 msgstr "(Fa una piccola donazione) Ecco cinque pezzi d'oro."
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3548
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3590
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3729
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3771
 msgid "(Actually you don't have that much)"
 msgstr "(A dire il vero non hai così tanto)"
 
 #. [message]: id=High Priest Jal
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3561
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3742
 msgid "Thank you. May Pelor's light always shine upon you!"
 msgstr "Grazie. Possa la luce di Pelor essere sempre su di te!"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3580
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3761
 msgid "(Make a large donation) Here's fifty gold pieces."
 msgstr "(Fa una grossa donazione) Ecco cinquanta pezzi d'oro."
 
 #. [message]: id=High Priest Jal
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3610
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3791
 msgid "My lady is MOST generous! You have gained a great ally in Pelor today!"
 msgstr "Sei MOLTO generosa! Hai guadagnato un grande alleato in Pelor oggi."
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3618
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3799
 msgid "You lost fifty gold pieces!"
 msgstr "Hai perso cinquanta pezzi d'oro!"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3633
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3814
 msgid "(Decline to donate) Sorry, not today."
 msgstr "(Rifiuta di donare) Spiacente, non oggi."
 
 #. [message]: id=High Priest Jal
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3637
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3818
 msgid "Peace be with you."
 msgstr "Che la pace sia con te."
 
 #. [message]: id=Shady Character
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3659
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3840
 msgid "Move along! Nothing to see here! Really! Go away!"
 msgstr "Via da qui! Non c'è niente da vedere! Vattene!"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3676
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3857
 msgid ""
 "(A handsome young elf warrior stands by the side of the road, sunlight "
 "glinting off his shining armor and golden hair. There is something very "
@@ -3228,17 +3311,17 @@ msgstr ""
 "qualcosa di molto familiare in lui...)"
 
 #. [message]: id=Sithras
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3680
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3861
 msgid "Aurelia!!! (He rushes to embrace you)"
 msgstr "Aurelia!!! (Corse ad abbracciarti)"
 
 #. [message]: id=Sithras
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3684
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3865
 msgid "I've been looking all over for you!"
 msgstr "Ti ho cercata dappertutto!"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3688
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3869
 msgid ""
 "(You may be in trouble...You recognize him as your host's boyfriend. You "
 "have memories of her spurning him a few months ago...)"
@@ -3247,7 +3330,7 @@ msgstr ""
 "Ti ricordi che lei lo ha lasciato qualche mese fa...)"
 
 #. [message]: id=Sithras
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3692
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3873
 msgid ""
 "All right. So maybe you had some spiritual awakening that led you on a "
 "crusade to purify Shinseki forest. And maybe I didn't agree with said "
@@ -3260,7 +3343,7 @@ msgstr ""
 "andare nel territorio degli umani."
 
 #. [message]: id=Sithras
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3696
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3877
 msgid ""
 "But you know, these last few months I've been lost without you. All I want "
 "is to be together again with you! Aurelia...(he gets down on his knees) will "
@@ -3270,12 +3353,12 @@ msgstr ""
 "voglio è tornare insieme a te! Aurelia...(si inghinocchia) mi riprenderai? "
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3702
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3883
 msgid "(Reject him) No! I hate you! Get away from me!"
 msgstr "(Rifiutalo) No! Ti odio! Sta lontano da me!"
 
 #. [message]: id=Sithras
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3706
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3887
 msgid ""
 "Aurelia...no! I...can't live without you! (He runs off, his face a picture "
 "of anguish.)"
@@ -3284,7 +3367,7 @@ msgstr ""
 "ritratto del dolore.)"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3711
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3892
 msgid ""
 "(Extort him) If you really love me, prove it and give me all your money "
 "right now!"
@@ -3292,7 +3375,7 @@ msgstr ""
 "(Ricattalo) Se veramente mi ami, provalo e dammi adesso tutti i tuoi soldi! "
 
 #. [message]: id=Sithras
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3715
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3896
 msgid ""
 "(Puzzled) I thought you'd sworn off materialism? (Sigh) I'll never "
 "understand women. All I've got is 43 gold pieces. Don't spend it all in one "
@@ -3302,17 +3385,17 @@ msgstr ""
 "donne. Tutto quello che ho è 43 pezzi d'oro. Non spenderli tutti in un posto."
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3719
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3900
 msgid "You gained 43 gold pieces!"
 msgstr "Hai guadagnato 43 pezzi d'oro!"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3732
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3913
 msgid "(Accept him) I'm, errr, glad you came!"
 msgstr "(Accettalo) Io sono, errr, felice che tu sia venuto!"
 
 #. [message]: id=Sithras
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3736
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3917
 msgid ""
 "(He kisses you repeatedly) Oh Aurelia! Today is the happiest day since..."
 "since we first got together! Come, it's time we spent some quality time "
@@ -3323,12 +3406,12 @@ msgstr ""
 "di tempo insieme."
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3747
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3928
 msgid "(You spend quality time with Sithras!)"
 msgstr "(Trascorri un po' di tempo con Sithras!)"
 
 #. [message]: id=Sithras
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3766
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3947
 msgid ""
 "I understand you have some things to take care of around town. I'll wait "
 "here for you until you're done."
@@ -3337,7 +3420,7 @@ msgstr ""
 "non avrai fatto."
 
 #. [message]: id=Guthry
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3783
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3964
 msgid ""
 "Hello stranger. It's not often you see an elf in Fort Pinewood. It's said "
 "your kind knows about...sylvan problems...so maybe you'd be able to help me."
@@ -3347,17 +3430,17 @@ msgstr ""
 "forse sarai capace di aiutarmi."
 
 #. [message]: id=Guthry
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3787
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3968
 msgid "My brother used to own this cottage, but he was in the militia and..."
 msgstr "Mio fratello possedeva questa villetta, ma era nella milizia e..."
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3791
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3972
 msgid "Got eaten?"
 msgstr "È stato magiato?"
 
 #. [message]: id=Guthry
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3795
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3976
 msgid ""
 "Yeah. No worries though, I hated the guy. And now I've inherited his "
 "cottage. Only problem is, there's this crazed fairy that keeps attacking me! "
@@ -3369,12 +3452,12 @@ msgstr ""
 
 #. [unit]: type=Elvish Druid, id=Dryad
 #: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:672
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3800
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3981
 msgid "Dryad"
 msgstr "Driade"
 
 #. [message]: id=Dryad
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3811
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3997
 msgid ""
 "Lies! This land is mine! The human who used to live in the cottage was nice. "
 "But this new human tried to cut down my tree."
@@ -3383,7 +3466,7 @@ msgstr ""
 "questo nuovo umano ha provato a tagliare il mio albero."
 
 #. [message]: id=Guthry
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3815
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4001
 msgid ""
 "It's my tree, not yours! I own this land now! Its been in my family for five "
 "generations."
@@ -3392,7 +3475,7 @@ msgstr ""
 "famiglia per cinque generazioni."
 
 #. [message]: id=Dryad
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3819
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4005
 msgid ""
 "I do not know what these 'generations' are that you speak of. But I have "
 "lived here since my tree was but a tiny sprout in the ground. The human town "
@@ -3405,23 +3488,23 @@ msgstr ""
 "qesto poso per sempre."
 
 #. [message]: id=Guthry
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3823
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4009
 msgid "Help me claim my inheritance and I'll reward you well."
 msgstr "Aiutami a reclamare la mia eredità e tu ricompenserò bene."
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3832
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4018
 msgid "(Side with Guthry) I'll use my sylvan magic to banish this crazy dryad."
 msgstr ""
 "(Schierati con Guthry) Userò i miei poteri per bandire questa driade pazza."
 
 #. [message]: id=Dryad
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3836
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4022
 msgid "No! You're an elf! How could you side with--"
 msgstr "No! Sei un elfo! Dovresti schierarti con--"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3840
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4026
 msgid ""
 "Niste Siara Belkan! (You banish the dryad back into her tree. It will be "
 "many years before she will be able to emerge again.)"
@@ -3430,22 +3513,22 @@ msgstr ""
 "parrecchi anni prima di essere in grado di uscire.)"
 
 #. [message]: id=Guthry
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3847
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4034
 msgid "Thanks for the help! Here's fifty gold for your trouble."
 msgstr "Grazie dell'aiuto! Ecco qui cinquanta pezzi d'oro."
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3855
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4042
 msgid "You gained fifty gold pieces!"
 msgstr "Hai guadagnato cinquanta pezzi d'oro!"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3868
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4055
 msgid "(Side with the Dryad) The Dryad was here first, she is in the right."
 msgstr "(Schierati con la Driade) La Driade era qui prima, quindi ha ragione."
 
 #. [message]: id=Guthry
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3872
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4059
 msgid ""
 "Damn dryad and her damn tree-hugging sympathizers! (Menacingly) I know I "
 "can't take this land by force, but mark my word, one day someone strong will "
@@ -3456,7 +3539,7 @@ msgstr ""
 "qualcuno di forte verrà e si schiererà dalla mia parte!"
 
 #. [message]: id=Dryad
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3876
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4063
 msgid ""
 "Thank you for helping keep the rabid human at bay, though I fear it is just "
 "for a little while longer. If you ever need a friend of the Forest, I am "
@@ -3466,7 +3549,7 @@ msgstr ""
 "tornerà presto. Se ha bisogno di una amica della Foresta, conta su di me."
 
 #. [message]: id=Haffuz the Slaver
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3908
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4095
 msgid ""
 "Thirty gold pieces gets you your very own troll whelp slave. Use the "
 "creature for manual labor, bet on him in the gladiator pits, sic him on your "
@@ -3479,23 +3562,23 @@ msgstr ""
 "il basso, bassissimo prezzo di trenta pezzi d'oro!"
 
 #. [message]: id=Bryony the Idealist
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3912
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4099
 msgid "Enslaving other creatures is wrong! How can you be so cold-hearted?!"
 msgstr ""
 "Schiavizzare altre creature è sbagliato! Come puoi essere così crudele?!"
 
 #. [message]: id=Haffuz the Slaver
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3916
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4103
 msgid "What do you care? You're not the one being sold on the auction block!"
 msgstr "Che t'importa? Non sei tu quella che sta per essere venduta!"
 
 #. [message]: id=Bryony the Idealist
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3920
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4107
 msgid "I'll have the town guards arrest you!"
 msgstr "Chiamerò le guardie per arrestarti!"
 
 #. [message]: id=Haffuz the Slaver
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3924
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4111
 msgid ""
 "For what? Slavery is legal in this province. So take your self-righteous "
 "attitude, turn yourself around, and walk the other way! Or maybe I'll have "
@@ -3507,14 +3590,14 @@ msgstr ""
 
 #. [message]: speaker=unit
 #. [message]: id=Gorl the Smasher
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2793
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3928
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4082
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2801
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4115
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4269
 msgid "(Grunts)"
 msgstr "(Grugnisce)"
 
 #. [message]: id=Kirielle the Realist
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3932
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4119
 msgid ""
 "Come on Bryony, there's nothing to be gained from agitating the locals. We "
 "must stay focused on our mission!"
@@ -3523,17 +3606,17 @@ msgstr ""
 "luogo. Dobbiamo concentrarci sulla nosta missione!"
 
 #. [message]: id=Bryony the Idealist
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3936
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4123
 msgid "We can't just walk away from something like this!"
 msgstr "Non posso sopportare una cosa del genere!"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3942
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4129
 msgid "I'll buy the troll whelp for 30 gold."
 msgstr "Comprerò il cucciolo di troll per 30 pezzi d'oro."
 
 #. [message]: id=Bryony the Idealist
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3946
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4133
 msgid ""
 "I hope you realize that by patronizing this man's business you're only "
 "encouraging him!"
@@ -3541,14 +3624,14 @@ msgstr ""
 "Spero che tu capisca che comprando da questo uomo lo incoraggerai solamente!"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3955
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4142
 msgid ""
 "(Side with Bryony) Slaving is an evil business! I think you should stop."
 msgstr ""
 "(Schierati con Bryony) La schiavitù è malvagia! Penso che dovresti fermarti."
 
 #. [message]: id=Haffuz the Slaver
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3959
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4146
 msgid ""
 "I used to be a beggar on the streets of Tarakin City, but since I got into "
 "slaving I've always had three meals a day and a soft bed to sleep in at "
@@ -3559,7 +3642,7 @@ msgstr ""
 "notte. Cosa diavolo sapete voi elfi della povertà o malvagità?"
 
 #. [message]: id=Bryony the Idealist
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3963
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4150
 msgid ""
 "Just because you had a rough life doesn't mean you're entitled to make other "
 "people suffer!"
@@ -3568,17 +3651,17 @@ msgstr ""
 "di far soffrire gli altri!"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3972
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4159
 msgid "(Don't get involved)."
 msgstr "(Non ne rimani coinvolto)."
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:3976
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4163
 msgid "(The elf and the human are still arguing as you leave)"
 msgstr "(L'elfo e l'umano stavano ancora discutendo quando te ne andasti)"
 
 #. [message]: id=Haffuz the Slaver
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4005
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4192
 msgid ""
 "A pleasure doing business with you! Would you like to take your slave with "
 "you now?"
@@ -3586,23 +3669,23 @@ msgstr ""
 "È un piacere fare affari con te! Vuoi prendere il tuo schiavo con te ora?"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4009
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4196
 msgid "I'll pick him up shortly."
 msgstr "Lo ritirerò a breve."
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4017
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4204
 msgid "You spent thirty gold pieces!"
 msgstr "Hai speso trenta pezzi d'oro!"
 
 #. [message]: id=Haffuz the Slaver
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4044
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4231
 msgid ""
 "You don't have that much money right now. Come back when you can pay me."
 msgstr "Non hai abbastanza denaro per ora. Ritorna quando potrari pagarami."
 
 #. [message]: id=Haffuz the Slaver
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4059
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4246
 msgid ""
 "Everyone has to look out for themselves, because no one else is gonna do it "
 "for you. That's what ten years of living on the streets of Tarakin City "
@@ -3613,12 +3696,12 @@ msgstr ""
 "Tarakin. Perchè dovrei abbandonare il commercio di schiavi?"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4065
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4252
 msgid "You'll have a clear conscience."
 msgstr "Avrai una coscienza pulita."
 
 #. [message]: id=Haffuz the Slaver
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4069
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4256
 msgid ""
 "I'd rather be rich than have a clear conscience! Now leave, before I have "
 "Gorl here give you a pounding!"
@@ -3627,7 +3710,7 @@ msgstr ""
 "che dica a Gorl di polverizzarti!"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4074
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4261
 msgid ""
 "I'll pay you money to work for me as a bodyguard. 50 gold pieces for the two "
 "of you!"
@@ -3636,52 +3719,52 @@ msgstr ""
 "due!"
 
 #. [message]: id=Haffuz the Slaver
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4078
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4265
 msgid "What do you think, Gorl?"
 msgstr "Che ne pensi, Gorl?"
 
 #. [message]: id=Haffuz the Slaver
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4086
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4273
 msgid "Gorl likes it."
 msgstr "A Gorl piace."
 
 #. [message]: id=Haffuz the Slaver
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4096
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4283
 msgid "Goodbye slavery, hello lucrative bodyguard contract!"
 msgstr "Addio commercio di schiavi, benvenuto lucroso lavoro di guardia!"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4100
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4287
 msgid "Wait for me here until I need you."
 msgstr "Aspettatemi finche non avrò bisogno di voi."
 
 #. [message]: id=Haffuz the Slaver
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4104
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4291
 msgid "Yes ma'am!"
 msgstr "Sì signora!"
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4112
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4299
 msgid "You spent 50 gold pieces!"
 msgstr "Hai speso 50 pezzi d'oro!"
 
 #. [message]: id=Haffuz the Slaver
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4140
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4327
 msgid "Come back when you have the money!"
 msgstr "Ritorna quando avrai i soldi!"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4168
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4355
 msgid "(Have you finished exploring Fort Pinewood)?"
 msgstr "(Hai finito di esplorare Fort Pinewood)?"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4170
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4357
 msgid "Yes (End Level)."
 msgstr "Sì (Fine Livello)."
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4198
+#: Ooze_Mini_Campaign/scenarios/3_Pinewood.cfg:4386
 msgid "Not yet."
 msgstr "Non ancora."
 
@@ -3692,7 +3775,8 @@ msgstr "L'Assedio di Pinewood"
 
 #. [objective]: condition=win
 #: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:235
-msgid "Defend the Fort."
+#, fuzzy
+msgid "Defend the Fort"
 msgstr "Difendi il Forte."
 
 #. [message]: speaker=narrator
@@ -4085,7 +4169,7 @@ msgstr ""
 "orco."
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1207
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1213
 msgid ""
 "It seems the orcs have hired naga mercenaries. They're trying to flank you!"
 msgstr ""
@@ -4093,7 +4177,7 @@ msgstr ""
 "circondarti!"
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1276
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1282
 msgid ""
 "It seems that the earlier attacks were only designed to test your defenses. "
 "The vanguard of the orcish army has finally arrived. They march toward the "
@@ -4106,12 +4190,12 @@ msgstr ""
 "essere nei guai."
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1495
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1501
 msgid "Naga mercenaries suddenly emerge from the town well!"
 msgstr "Delle mercenarie naga emergono all'improvviso dalla fogna cittadina!"
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1572
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1578
 msgid ""
 "A necromancer and his minions suddenly burst out of the town crypt! It seems "
 "they, too, are in the pay of the orcs."
@@ -4120,13 +4204,13 @@ msgstr ""
 "Sembra che anche loro siano in combutta con gli orchi."
 
 #. [unit]: type=Orcish Sovereign, id=Blackfang
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1744
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1972
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1750
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1979
 msgid "Blackfang"
 msgstr "Blackfang"
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1859
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1865
 msgid ""
 "The ranks of the orc horde part momentarily to make way for the largest orc "
 "you have ever seen. His black spiked armor and sword mark him as Blackfang, "
@@ -4137,12 +4221,12 @@ msgstr ""
 "la sua spada lo identificavano come Blackfang, capo dell'Orda Nera."
 
 #. [message]: id=Blackfang
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1864
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1870
 msgid "Blackfang IS HERE!!!"
 msgstr "Blackfang È QUI!!!"
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1868
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1874
 msgid ""
 "The orcs cheer and howl in applause, waving tattered banners in homage to "
 "their brutal leader."
@@ -4151,7 +4235,7 @@ msgstr ""
 "loro brutale condottiero."
 
 #. [message]: id=Blackfang
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1873
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1879
 msgid ""
 "Already this fort's defenses are wavering, and I haven't even sent in my "
 "veterans yet. How pathetic. If I'd known it would be this easy to raze "
@@ -4162,7 +4246,7 @@ msgstr ""
 "Pinewood, l'avrei attaccata mesi fa!"
 
 #. [message]: id=Blackfang
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1877
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1883
 msgid ""
 "Well troops, you know the drill: Kill everyone. Destroy everything. The orc "
 "who brings me their leader's head on a pike gets an immediate promotion!"
@@ -4172,17 +4256,17 @@ msgstr ""
 "immediata promozione!"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1881
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1887
 msgid "This is impossible! There's just too many of them and not enough of us!"
 msgstr "Non è possibile! Loro sono in così tanti e noi in così pochi!"
 
 #. [unit]: type=Dragoon, id=Captain Koltz
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1887
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1893
 msgid "Captain Koltz"
 msgstr "Capitano Koltz"
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1923
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1930
 msgid ""
 "Suddenly a small formation of Imperial calvary appears on the horizon! They "
 "smash through a platoon of orcish infantry and reach the north side of the "
@@ -4193,24 +4277,24 @@ msgstr ""
 "lato nord del forte! I cittadini superstiti gli accolgono con gioia."
 
 #. [message]: id=Blackfang
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1928
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1935
 msgid ""
 "How annoying! Leave it to the Imperial Army to show up and ruin a perfectly "
 "good day."
 msgstr "Che noia! Lasciare l'Esercito Imperiale  rovinare un giorno perfetto."
 
 #. [message]: id=Captain Koltz
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1932
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1939
 msgid "Looks like we arrived just in time! Are you in charge here?"
 msgstr "Sembra che siamo arrivati appena in tempo! Siete sotto attacco qui?"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1936
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1943
 msgid "Yes."
 msgstr "Sì."
 
 #. [message]: id=Captain Koltz
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1940
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1947
 msgid ""
 "I'm Captain Koltz, 5th Imperial Cavalry Troop, at your service. You should "
 "know that an Imperial Councilman is also on his way to assist in the defense "
@@ -4223,7 +4307,7 @@ msgstr ""
 "arriverà in tempo."
 
 #. [message]: id=Captain Koltz
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1944
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1951
 msgid ""
 "We cut our way through some of the orcs besieging the fort, but it looks "
 "like orcish reinforcements have already closed the gap we made. Looks like "
@@ -4234,12 +4318,12 @@ msgstr ""
 "Sembra che noi siamo bloccati qui con voi."
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1948
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1955
 msgid "Yes, I'm afraid it's going to be a fight to the finish."
 msgstr "Sì, ho paura che sarà una scontro per sfinimento."
 
 #. [message]: id=Captain Koltz
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1952
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1959
 msgid ""
 "We're outnumbered at least twenty to one, but perhaps if we kill the orcish "
 "leader we'll be able to escape the fort in the ensuing chaos."
@@ -4249,12 +4333,12 @@ msgstr ""
 "seguente."
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1956
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1963
 msgid "There hasn't been an opportunity to strike at Blackfang directly yet."
 msgstr "Non c'è ancora una possibilità di colpire Blackfang direttamente."
 
 #. [message]: id=Captain Koltz
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1960
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:1967
 msgid ""
 "Then we must bide our time and conserve our numbers. If we kill enough orcs, "
 "Blackfang might be goaded into personally leading his troops in battle. That "
@@ -4265,17 +4349,17 @@ msgstr ""
 "batteglia. In quel momento colpiremo."
 
 #. [message]: id=Blackfang
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2004
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2011
 msgid "Hah, what a bloodbath! Rally to me, men! We finish them now!"
 msgstr "Hah, che bagno di sangue! A me, uomini! Li finiremo adesso!"
 
 #. [message]: speaker=unit
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2015
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2022
 msgid "Hragh! How could I be beaten by someone so pathetic?"
 msgstr "Hragh! Come ho potuto farmi battere da qualcuno di così patetico?"
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2022
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2029
 msgid ""
 "The orcs, demoralized by the death of their leader, flee the battlefield! "
 "You are victorious!"
@@ -4284,7 +4368,7 @@ msgstr ""
 "vittorioso!"
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2027
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2034
 msgid ""
 "The defenders let out a ragged cheer as the last orcs disappear over the "
 "horizon. Slain orcs, smoldering fires, and broken weapons lie everywhere. "
@@ -4298,7 +4382,7 @@ msgstr ""
 "generazioni avvenire!"
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2032
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2039
 msgid ""
 "The bloodied, weary townsfolk begin to turn to the task of helping the "
 "wounded and repairing the extensive damage to the fort. More Imperial "
@@ -4311,12 +4395,12 @@ msgstr ""
 "soldati Imperiali."
 
 #. [unit]: type=Great Mage, id=Imperial Mage
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2041
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2048
 msgid "Master Keiron"
 msgstr "Maestro Keiron"
 
 #. [message]: id=Imperial Mage
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2179
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2186
 msgid ""
 "(Gazes calmly at the the wrecked fort) Ah Pinewood. I remember when this "
 "place was nothing more than a few huts by a trade crossroads. It's good to "
@@ -4327,7 +4411,7 @@ msgstr ""
 "esseci tornati!"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2192
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2199
 msgid ""
 "There will be time for nostalgia later, sir! We've got wounded soldiers that "
 "need help!"
@@ -4336,7 +4420,7 @@ msgstr ""
 "che necessitano aiuto!"
 
 #. [message]: id=Imperial Mage
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2196
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2203
 msgid ""
 "(He seems to be talking to himself) It speaks, it speaks! Oh how wonderful! "
 "I feel like I've met the child I never knew I had!"
@@ -4345,12 +4429,12 @@ msgstr ""
 "avessi incontrato il figlio che non ho mai avuto!"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2200
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2207
 msgid "(Is this man crazy?)"
 msgstr "(È pazzo questo uomo?)"
 
 #. [message]: id=Imperial Mage
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2204
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2211
 msgid ""
 "Yes, yes, it was in my youth that I made you. A harmless pastime, really. To "
 "try to create Life itself is...difficult. Impossible perhaps? A thousand "
@@ -4361,7 +4445,7 @@ msgstr ""
 "fallimenti e finalmente il mio solo successo...tu!"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2208
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2215
 msgid ""
 "(You have a very odd feeling about this old man. You're certain you've never "
 "met him before yet he seems strangely familiar... )"
@@ -4370,7 +4454,7 @@ msgstr ""
 "incontrato prima ma ti sembra stranamente familiare...)"
 
 #. [message]: id=Imperial Mage
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2212
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2219
 msgid ""
 "It took a bit of my life, my spirit, if you will, to finally do it. To give "
 "you life. Alas, urgent business at the Imperial Court called me away from my "
@@ -4382,7 +4466,7 @@ msgstr ""
 "no!"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2216
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2223
 msgid ""
 "(Did this man create you? Your memories of those early years in the ruined "
 "underground laboratory are hazy and vague...your mind is so much more clear "
@@ -4393,7 +4477,7 @@ msgstr ""
 "chiara e affinata da quando hai preso possesso dell'elfo.)"
 
 #. [message]: id=Imperial Mage
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2220
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2227
 msgid ""
 "And look how you've grown, evolved! No longer a mere ooze, you've taken "
 "solid form! Your lifeforce has increased a hundredfold! You're my project, "
@@ -4406,7 +4490,7 @@ msgstr ""
 "ricerca...vieni fuori e lasciati farti vedere nella tua vera forma!"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2224
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2231
 msgid ""
 "(Your Solid form shudders and spasms. Somehow the mage has magically "
 "compelled you to come out of your hiding place!)"
@@ -4415,7 +4499,7 @@ msgstr ""
 "costringe magicamente a venir fuori del tuo nascondiglio!)"
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2265
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2272
 msgid ""
 "(You vomit up great quantities of slimy ooze! The townsfolk, who only "
 "moments ago looked upon you as their leader and savior, now look at you with "
@@ -4426,7 +4510,7 @@ msgstr ""
 "repulsione e orrore.)"
 
 #. [message]: id=Imperial Mage
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2269
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2276
 msgid ""
 "Oh, how beautiful you are! My work on the Imperial Council has kept me busy, "
 "but when I heard rumors of a disturbance in the Pinewood territories I "
@@ -4438,12 +4522,12 @@ msgstr ""
 "da un unico spirito."
 
 #. [message]: id=Imperial Mage
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2273
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2280
 msgid "What a terrible shame I'm going to have to kill you."
 msgstr "Che terribile peccato il fatto che ora debba ucciderti."
 
 #. [message]: id=Imperial Mage
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2280
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2288
 msgid ""
 "In truth you're a victim of your own success. By eating hundreds of "
 "creatures you've greatly increased your size and lifeforce. Now I will take "
@@ -4456,7 +4540,7 @@ msgstr ""
 "potente mai esistito! Neanche l'Imperatore potrà resistermi!"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2286
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2294
 msgid ""
 "(Evil) If you can absorb my lifeforce then I can absorb yours! I'll devour "
 "you all!"
@@ -4465,7 +4549,7 @@ msgstr ""
 "assorbire la tua! Vi divorerò tutti!"
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2290
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2298
 msgid ""
 "Once you've eaten your Creator you will be complete! Your allies from "
 "Pinewood will no longer aid you, but it doesn't matter. During your time in "
@@ -4483,18 +4567,18 @@ msgstr ""
 "dall'interno!"
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2365
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2373
 msgid "Now you've got a lot more oozes with which to eat your Creator!"
 msgstr "Ora hai molte altre fanghiglie con cui puoi mangiare il tuo Creatore!"
 
 #. [objective]: condition=win
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2376
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2466
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2384
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2474
 msgid "Kill your Creator!"
 msgstr "Uccidi il tuo Creatore!"
 
 #. [option]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2393
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2401
 msgid ""
 "(Good) Citizens of Pinewood, I may be a monster but this mage is the greater "
 "evil! He didn't come to Pinewood to save you, only to slay me and plot "
@@ -4505,7 +4589,7 @@ msgstr ""
 "per complottare di tradire l'Impero!"
 
 #. [message]: id=Sergeant Ryn
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2397
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2405
 msgid ""
 "Treason against the Empire can never be forgiven! The mage dies first, I'll "
 "hold judgement on the ooze creature for now."
@@ -4514,7 +4598,7 @@ msgstr ""
 "manterrò il mio giuramento verso la creatura per ora."
 
 #. [message]: id=Sithras
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2401
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2409
 msgid ""
 "(Shocked) Aurelia, what has happened to you?! I don't understand this at "
 "all. But I can't let the mage hurt you, my love."
@@ -4523,7 +4607,7 @@ msgstr ""
 "permette al mago di farti del male, amore mio."
 
 #. [message]: id=Fontaine
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2405
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2413
 msgid ""
 "My Muse?! I...don't know what you are anymore...but I will continue to fight "
 "with you, for now at least."
@@ -4532,7 +4616,7 @@ msgstr ""
 "te, per adesso almeno."
 
 #. [message]: id=Ram Aide
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2409
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2417
 msgid ""
 "Oi! I've had waaay too many drinks! Now I'm see'n oozes come outta nowhere "
 "an' crazy wizards to boot!"
@@ -4541,7 +4625,7 @@ msgstr ""
 "pazzo da predere a pedate!"
 
 #. [message]: id=Shady Character
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2413
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2421
 msgid ""
 "Don't worry, it's business as usual between us. I've sold weapons to far "
 "worse monsters than you, no offense."
@@ -4550,7 +4634,7 @@ msgstr ""
 "molto peggiori di te, senza offesa."
 
 #. [message]: id=High Priest Jal
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2417
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2425
 msgid ""
 "The shining light of Pelor will rain death and destruction upon those "
 "lacking in faith! The Imperial mage reeks of evil, the ooze less so. The "
@@ -4561,7 +4645,7 @@ msgstr ""
 "sarà ucciso per primo."
 
 #. [message]: id=Corinna
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2421
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2429
 msgid ""
 "Fascinating! I've always wanted to study a magic ooze creature. Oh yes, and "
 "after this Imperial mage is dead I'm definitely taking his spellbooks!"
@@ -4571,7 +4655,7 @@ msgstr ""
 "libro di incantesimi!"
 
 #. [message]: id=Sir Dryden
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2425
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2433
 msgid ""
 "Corinna is evil, the Empire is evil, now my elven benefactor is revealed as "
 "evil...so much evil in the world...Though I feel some evils may be redeemed, "
@@ -4582,7 +4666,7 @@ msgstr ""
 "qualche malvagio può redimersi, questo mago è imperdonabile!"
 
 #. [message]: id=Jedd
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2429
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2437
 msgid ""
 "(Spits tobacco) Oh, a chance to kill a corrupt government official! I "
 "wouldn't miss this for the world!"
@@ -4591,7 +4675,7 @@ msgstr ""
 "corrotto! Non me lo perderei per niente al mondo!"
 
 #. [message]: id=Livius
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2433
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2441
 msgid ""
 "So this bastard mage thinks he can just waltz in here and 'absorb' my future "
 "culinary masterpiece?! Not on my watch!"
@@ -4600,12 +4684,12 @@ msgstr ""
 "'assorbire' il mio capolavoro culinario?! Non sotto i miei occhi!"
 
 #. [message]: id=Frist
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2437
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2445
 msgid "Ach, this is too complicated fer me ta figure out!"
 msgstr "Ach, non me lo sarei mai aspettato!"
 
 #. [message]: id=Valin
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2441
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2449
 msgid ""
 "KEIRON! You sir have lived the life of a COWARD and a TRAITOR! Now learn to "
 "die like a SOLDIER!"
@@ -4614,7 +4698,7 @@ msgstr ""
 "come un SOLDATO!"
 
 #. [message]: id=Brock
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2445
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2453
 msgid ""
 "If the ooze is supposed to be the bad guy, I guess that makes this Master "
 "Keiron fellow the REALLY bad guy!"
@@ -4623,7 +4707,7 @@ msgstr ""
 "uomo MOLTO cattivo!"
 
 #. [message]: id=Haffuz the Slaver
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2449
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2457
 msgid ""
 "Don't worry, the contract between us is still valid! I make it a point not "
 "to let my customers' inherent nastiness get in the way of making a hefty "
@@ -4633,7 +4717,7 @@ msgstr ""
 "rivoltanza del mio cliente di impedirmi di avere un profitto!"
 
 #. [message]: id=Dryad
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2453
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2461
 msgid ""
 "You're an abomination against Nature, ooze creature! Yet, Pinewood will be "
 "far worse off if the power-crazed Imperial traitors win the battle today. I "
@@ -4644,7 +4728,7 @@ msgstr ""
 "battaglia oggi. Continuerò ad aiutarti...per ora!"
 
 #. [message]: id=Kirielle the Realist
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2457
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2465
 msgid ""
 "I swore to the Elven Council that I'd put an end to Blackfang's "
 "depredations. Thanks to the ooze creature, Blackfang is no more. We'll "
@@ -4655,7 +4739,7 @@ msgstr ""
 "ad aiutare la fanghiglia per ora."
 
 #. [message]: id=Bryony the Idealist
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2461
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2469
 msgid ""
 "If you say so Kirielle. I just wish things didn't always have to be so "
 "complicated."
@@ -4663,7 +4747,7 @@ msgstr ""
 "Se lo dici tu, Kirielle. Mi auguro solo che le cose non si complichino."
 
 #. [message]: speaker=unit
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2508
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2516
 msgid ""
 "Ack! Why attack an innocent arms merchant like myself? I would have sold you "
 "quality weapons at an affordable price!"
@@ -4672,94 +4756,94 @@ msgstr ""
 "vendervi armi di qualità a un prezzo abbordabile!"
 
 #. [message]: speaker=unit
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2526
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2534
 msgid "Ach! I hope there's lots of booze in Heaven..."
 msgstr "Ach! Spero che ci sia un sacco di birra in Paradiso..."
 
 #. [message]: speaker=unit
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2537
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2545
 msgid "Ugn! I go...to meet...Pelor..."
 msgstr "Ugn! Vado...a incontrare...Pelor..."
 
 #. [message]: speaker=unit
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2548
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2556
 msgid "Fiend! I hope Aurelia kills...you...all...ugn..."
 msgstr "Demoni! Spero che Aurelia vi...ucciderà...tutti...ugn.."
 
 #. [message]: speaker=unit
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2559
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2567
 msgid "No! I'm too pretty to die!"
 msgstr "No! Sono troppo bella per morire!"
 
 #. [message]: id=Sir Dryden
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2563
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2571
 msgid "Corinna! NOOOOO!!!!"
 msgstr "Corinna! NOOOOO!!!!"
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2586
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2594
 msgid "Wracked with grief, Sir Dryden has abandoned the fight!"
 msgstr "Ferito dal dolore, Sir Dryden ha abbandonato il combattimento!"
 
 #. [message]: speaker=unit
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2600
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2608
 msgid "I hope you drown in my blood, scum!"
 msgstr "Sperò che affogherete nel mio sangue, feccia!"
 
 #. [message]: speaker=unit
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2611
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2619
 msgid "Damn, now my book on exotic cooking will never be finished!"
 msgstr "Dannazione, ora il mio libro sulla cucina esotica non sarà mai finito!"
 
 #. [message]: speaker=unit
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2622
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2630
 msgid "I did my best...my student Aurelia will finish this...ugn..."
 msgstr ""
 "Ho fatto del mio meglio...la mia studentessa Aurelia finirà quello che ho "
 "iniziato...ugn..."
 
 #. [message]: speaker=unit
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2633
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2641
 msgid "My DEATH will be AVENGED!!!"
 msgstr "La mia MORTE sarà VENDICATA!!!"
 
 #. [message]: speaker=unit
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2644
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2652
 msgid "Ach, I've finally met my match!"
 msgstr "Ach, infine ho incontrato il mio avversario!"
 
 #. [message]: speaker=unit
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2655
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2663
 msgid "Damn, I didn't count on them being this strong!"
 msgstr "Dannazione, non credevo fossero così forti!"
 
 #. [message]: id=Bryony the Idealist
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2659
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2667
 msgid "Kirielle, please don't die!!! I'm coming to help you!"
 msgstr "Kirielle, ti prego non morire!!! Sto venendo ad aiutarti!"
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2666
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2674
 msgid "Bryony has abandoned the fight!"
 msgstr "Bryony ha abbandonato il combattimento!"
 
 #. [message]: speaker=unit
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2678
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2686
 msgid "Kirielle, I'm sorry..."
 msgstr "Kirielle, mi spiace..."
 
 #. [message]: id=Kirielle the Realist
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2682
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2690
 msgid "Bryony, you can't die!!! I'm coming to help you!"
 msgstr "Bryony, non puoi morire!!! Sto venendo ad aiutarti!"
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2689
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2697
 msgid "Kirielle has abandoned the fight!"
 msgstr "Kirielle ha abbandonato il combattimento!"
 
 #. [message]: speaker=unit
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2701
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2709
 msgid ""
 "Why did it have to end like this! Corinna...has not been redeemed yet..."
 "ugn..."
@@ -4767,7 +4851,7 @@ msgstr ""
 "Perchè devo morire adesso! Corinna... non è stata ancora redenta..ugn..."
 
 #. [message]: speaker=unit
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2716
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2724
 msgid ""
 "I die now, alas, alas! I only wish to gaze into the angelic face of my Muse "
 "one last time..."
@@ -4776,7 +4860,7 @@ msgstr ""
 "della mia Musa..."
 
 #. [message]: speaker=unit
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2727
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2735
 msgid ""
 "Aurelia, my love, I'm sorry, they're too strong! I'll wait for you...in the "
 "next world..."
@@ -4785,27 +4869,27 @@ msgstr ""
 "prossimo mondo..."
 
 #. [message]: speaker=unit
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2738
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2746
 msgid "Usurpers! Stay away...from...my...land...ugn..."
 msgstr "Usurpatori! State lontano...dalla...mia...terra...ugn..."
 
 #. [message]: speaker=unit
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2749
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2757
 msgid "Now I return to the Earth..."
 msgstr "Ora ritorno alla Terra..."
 
 #. [message]: speaker=unit
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2760
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2768
 msgid "I may die now but the Empire is eternal!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2771
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2779
 msgid "(Grunts in pain)"
 msgstr "(Grugnisce di dolore)"
 
 #. [message]: speaker=unit
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2782
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2790
 msgid ""
 "Maybe getting into the bodyguard business wasn't such a good idea after "
 "all..."
@@ -4814,17 +4898,17 @@ msgstr ""
 "dopo tutto..."
 
 #. [message]: speaker=unit
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2804
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2812
 msgid "No!!! Absolute power was within my...grasp...ugnh..."
 msgstr "No!!! Il potere assoluto era nel mio... pugno.. ugnh..."
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2811
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2819
 msgid "Keiron's remaining men flee in disarray!"
 msgstr "I rimanenti uomini di Keiron fuggono in disordine!"
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2826
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2834
 msgid ""
 "Your quest for power and security is complete! With the death of your "
 "Creator you feel great power surging through you, and your amorphous form "
@@ -4839,7 +4923,7 @@ msgstr ""
 "rapidamente."
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2831
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2839
 msgid ""
 "Pinewood is abandoned by the forces of civilization, leaving you free to "
 "roam the vast wilderness in search of prey. In the new natural order you've "
@@ -4850,7 +4934,15 @@ msgstr ""
 "naturale che hai creato, tu sei in cima alla catena alimentare!"
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2869
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2844
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:3017
+msgid ""
+"If you liked this campaign check out the sort-of sequel, Elvish Dynasty! "
+"Coming soon to the Wesnoth add-on server!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2881
 msgid ""
 "EPILOGUE: You've defeated the Black Horde and your wicked Creator! With the "
 "death of your Creator you feel great power surging through you, and your "
@@ -4865,7 +4957,7 @@ msgstr ""
 "caduto."
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2874
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2886
 msgid ""
 "They offer to pardon you for any and all crimes you may have committed, and "
 "even offer you honorary Pinewood citizenship! Your time amongst the Solids "
@@ -4876,12 +4968,12 @@ msgstr ""
 "dato molto a cui pensare..."
 
 #. [message]: speaker=narrator
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2879
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2891
 msgid "The fate of the surviving townsfolk:"
 msgstr "Il destino dei cittadini sopravissuti:"
 
 #. [message]: id=Sithras
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2884
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2896
 msgid ""
 "Proposes marriage to you after the battle, saying that 'We'll get through "
 "this ooze issue together.'"
@@ -4890,7 +4982,7 @@ msgstr ""
 "problema fangoso insieme.'"
 
 #. [message]: id=Ram Aide
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2888
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2900
 msgid ""
 "Tries to get the townsfolk to buy him a new gigantic barrel of booze..."
 "unsuccessfully."
@@ -4899,7 +4991,7 @@ msgstr ""
 "senza successo."
 
 #. [message]: id=High Priest Jal
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2892
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2904
 msgid ""
 "Takes charge of the town's wounded after the battle. Tries to get you to "
 "convert to the worship of Pelor."
@@ -4908,7 +5000,7 @@ msgstr ""
 "al culto di Pelor."
 
 #. [message]: id=Kirielle the Realist
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2896
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2908
 msgid ""
 "The mysterious elf ranger disappears shortly after the battle and is not "
 "seen again."
@@ -4917,12 +5009,12 @@ msgstr ""
 "vista"
 
 #. [message]: id=Bryony the Idealist
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2900
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2912
 msgid "Disappears with her companion, Kirielle."
 msgstr "Scomparsa con la sua compagna, Kirielle."
 
 #. [message]: id=Frist
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2904
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2916
 msgid ""
 "Redoubles his efforts at training others in combat. Helps re-establish the "
 "Pinewood Militia."
@@ -4931,7 +5023,7 @@ msgstr ""
 "ristabilire la Milizia di Pinewood."
 
 #. [message]: id=Livius
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2908
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2920
 msgid ""
 "Has to give up his plans to cook and sell your corpse as an exotic culinary "
 "delicacy after you become the town hero. Goes off in search of other exotic "
@@ -4942,7 +5034,7 @@ msgstr ""
 "esotici per le sue ricette."
 
 #. [message]: id=Jedd
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2912
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2924
 msgid ""
 "After complaining for years about government bureaucrats that never did an "
 "honest day's work, Jedd is elected Mayor."
@@ -4951,23 +5043,23 @@ msgstr ""
 "fatto un giorno di onesto lavoro, Jedd è eletto Sindaco."
 
 #. [message]: id=Valin
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2916
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2928
 msgid "Takes his show on the road."
 msgstr "Porta il suo spettacolo sulla strada."
 
 #. [message]: id=Captain Koltz
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2920
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2932
 #, fuzzy
 msgid "Rises to the rank of Colonel in the Imperial Army."
 msgstr "Venne promosso Colonello dell'Esercito Imperiale."
 
 #. [message]: id=Guthry
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2924
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2936
 msgid "Becomes a land speculator."
 msgstr "Diventa uno speculatore di terre."
 
 #. [message]: id=Brock
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2928
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2940
 msgid ""
 "Continues to run his tavern. People from across the Empire come to challenge "
 "him to an armwrestling match; only a handful are able to best him."
@@ -4976,7 +5068,7 @@ msgstr ""
 "a braccio di ferro; solo i più abili sono in grado di sconfiggerlo."
 
 #. [message]: id=Dryad
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2932
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2944
 msgid ""
 "The tree-fairy returns to her tree once she is satisfied that Nature's "
 "balance has been restored."
@@ -4985,17 +5077,17 @@ msgstr ""
 "Natura venne ristabilito."
 
 #. [message]: id=Sergeant Ryn
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2936
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2948
 msgid "Becomes the new leader of the Pinewood Militia."
 msgstr "Diventa il nuovo capo della Milizia di Pinewood."
 
 #. [message]: id=Haffuz the Slaver
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2940
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2952
 msgid "Gets out of the bodyguard business in search of easier money."
 msgstr "Rinunciò al lavoro di guardia del corpo in cerca di soldi facili."
 
 #. [message]: id=Fontaine
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2944
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2956
 msgid ""
 "His artwork becomes famous and much sought after. He dedicates his paintings "
 "to his Muse."
@@ -5004,7 +5096,7 @@ msgstr ""
 "Musa."
 
 #. [message]: id=Sir Dryden
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2961
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2973
 msgid ""
 "Marries the love of his life, Corinna. He thanks you for helping him get the "
 "'wedding ring.'"
@@ -5013,7 +5105,7 @@ msgstr ""
 "ottenere l''anello nuziale.'"
 
 #. [message]: id=Corinna
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2980
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2992
 msgid ""
 "Without Sir Dryden's moral guidance, Corinna overcomes the power of the Ring "
 "of Opposite Alignment and returns to studying the Dark Arts."
@@ -5022,12 +5114,12 @@ msgstr ""
 "dell'Alineamento Opposto e ritorna a studiare le Arti Oscure. "
 
 #. [message]: id=Corinna
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:2993
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:3005
 msgid "Becomes even more reclusive as she delves into the Dark Arts."
 msgstr "Diventa sempre più ritirata più scava nelle Arti Oscure."
 
 #. [message]: id=Master Ooze
-#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:3000
+#: Ooze_Mini_Campaign/scenarios/4_Pinewood_Siege.cfg:3012
 msgid ""
 "You've won a great victory today. The future beckons you forward, and you're "
 "left to reflect on how far you've come...from a primitive creature in a dark "
@@ -5266,27 +5358,30 @@ msgstr "Fanghiglia"
 msgid "Ooze 2"
 msgstr "Fanghiglia 2"
 
-#. [unit_type]: id=Ancient Wose Pure, race=wose
-#: Ooze_Mini_Campaign/units/Wose_Ancient_Pure.cfg:4
-msgid "Ancient Wose"
-msgstr "Wose Antico"
+#~ msgid ""
+#~ "(Groans) The merchant leaves town today. There's no way I'll be able to "
+#~ "raise enough money in time. (Sigh) Thank you for all your help, milady. I "
+#~ "must now contemplate my next course of action."
+#~ msgstr ""
+#~ "(Geme) Il mercante parte oggi. Non c'è modo per guadagnare abbastanza "
+#~ "soldi in tempo. (Sospira) Grazie per il tuo aiuto, signora. Ora devo "
+#~ "pensare alle mie prossime mosse."
 
-#. [unit_type]: id=Ancient Wose Pure, race=wose
-#: Ooze_Mini_Campaign/units/Wose_Ancient_Pure.cfg:20
-msgid ""
-"The Forest Defender has linked her spirit to the physical manifestation of "
-"Shinseki Forest. If you consume the Forest Heart, you'll consume her sprit "
-"as well, thus ending the threat.\n"
-"\n"
-"Special Notes:"
-msgstr ""
-"La Protettrice della foresta ha collegato il suo spirito con la "
-"manifestazione fisica della Foresta Shinseki. Se consumi il Cuore della "
-"Foresta, consumerai anche il suo spirito, finchè spezerai il legame.\n"
-"\n"
-"Note Speciali:"
+#~ msgid "Ancient Wose"
+#~ msgstr "Wose Antico"
 
-#. [attack]: type=impact
-#: Ooze_Mini_Campaign/units/Wose_Ancient_Pure.cfg:109
-msgid "crush"
-msgstr "sfondamento"
+#~ msgid ""
+#~ "The Forest Defender has linked her spirit to the physical manifestation "
+#~ "of Shinseki Forest. If you consume the Forest Heart, you'll consume her "
+#~ "sprit as well, thus ending the threat.\n"
+#~ "\n"
+#~ "Special Notes:"
+#~ msgstr ""
+#~ "La Protettrice della foresta ha collegato il suo spirito con la "
+#~ "manifestazione fisica della Foresta Shinseki. Se consumi il Cuore della "
+#~ "Foresta, consumerai anche il suo spirito, finchè spezerai il legame.\n"
+#~ "\n"
+#~ "Note Speciali:"
+
+#~ msgid "crush"
+#~ msgstr "sfondamento"
